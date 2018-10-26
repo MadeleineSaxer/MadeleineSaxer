@@ -1,0 +1,12 @@
+<div class="about-container" *ngIf="me" fxLayout="column">
+
+  <h3>{{me.title}}</h3>
+  <div fxLayout="row" fxLayout.xs="row wrap" fxLayoutGap="32px">
+    <div fxFlex="200px" class="about-picture">
+      <img class="picture" src="assets/image/me/{{me.picture}}">
+    </div>
+    <div>
+      <div fxLayout="column wrap" class="text" *ngFor="let info of me.text">{{info}}</div>
+    </div>
+  </div>
+</div>

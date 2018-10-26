@@ -1,0 +1,25 @@
+<div fxLayout="column" class="container" fxLayoutAlign="center">
+  <div *ngIf="navigator" class="header">
+    <mat-toolbar fxFlex class="toolbar" fxLayout="row wrap">
+      <a class="title" mat-button routerLink="/main" routerLinkActive="active" routerLinkActive="mat-accent">Madeleine Saxer</a>
+      <a class="push-to-right" mat-button routerLink="/gallery" routerLinkActive="active"
+         routerLinkActive="mat-accent">{{navigator.gallery}}</a>
+      <a mat-button routerLink="/exhibition" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
+      <a mat-button routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</a>
+      <a mat-button routerLink="/contact" routerLinkActive="active"
+         routerLinkActive="mat-accent">{{navigator.contact}}</a>
+      <div>
+        <button mat-button ngClass="{{isGerman()? 'mat-accent': ''}}"
+                (click)="changeLanguage({isGerman: true, isEnglish:false})"> de
+        </button>
+        |
+        <button mat-button ngClass="{{isEnglish()? 'mat-accent': ''}}"
+                (click)="changeLanguage({isGerman: false, isEnglish:true})"> en
+        </button>
+      </div>
+    </mat-toolbar>
+  </div>
+  <div class="content">
+    <router-outlet></router-outlet>
+  </div>
+</div>

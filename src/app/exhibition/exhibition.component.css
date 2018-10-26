@@ -1,0 +1,30 @@
+.exhibition-addition {
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.exhibition-picture {
+  max-width: 100%;
+  width: auto;
+  max-height: 200px;
+}
+
+.exhibition-container{
+  margin: 32px;
+}
+
+.info-part{
+  min-width: 50%;
+}
+
+.text{
+  margin-bottom: 16px;
+}
+
+.exhibition-date{
+  margin-top: 0;
+}
+
+.exhibition-addition-container{
+  width: 100%;
+}

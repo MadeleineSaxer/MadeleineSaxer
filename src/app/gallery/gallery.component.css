@@ -1,0 +1,10 @@
+.gallery {
+  height: 100%;
+  width: 100%;
+}
+
+.gallery-container {
+  margin: 32px;
+  height: calc(100% - 64px);
+  width: calc(100% - 64px);
+}
