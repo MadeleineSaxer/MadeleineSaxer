@@ -30,6 +30,7 @@ export class GalleryComponent implements OnInit, OnDestroy {
     this.galleryOptions = [
       {
         thumbnailsColumns: 6,
+        thumbnailsMoveSize: 6,
         thumbnailsRows: 1,
         imageAnimation: NgxGalleryAnimation.Slide,
         layout: NgxGalleryLayout.ThumbnailsTop,
@@ -54,6 +55,8 @@ export class GalleryComponent implements OnInit, OnDestroy {
         height: '100%',
         imagePercent: 80,
         thumbnailsColumns: 3,
+        thumbnailsMoveSize: 3,
+
       },
       // max-width 300
       {
@@ -61,6 +64,8 @@ export class GalleryComponent implements OnInit, OnDestroy {
         width: '100%',
         height: '100%',
         thumbnailsColumns: 2,
+        thumbnailsMoveSize: 2,
+
       },
     ];
   }
