@@ -1,5 +1,20 @@
 {
   "picture": [
+	{
+		"url": "2018-001 (Large).jpg",
+		"url_min": "2018-001 (Mobile).jpg",
+		"size": "80 x 120 cm",
+		"de": {
+			"title": "Weg nach Pollenca, Mallorca",
+			"desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+			"caption": "Weg nach Pollenca"
+		},
+		"en": {
+			"title": "Path to Pollenca",
+			"desc": "Oil Piant / Linen Canvas on wood 4 cm, unframed",
+			"caption": "Path to Pollenca"
+		}
+	},
     {
       "url": "2017-002 (Large).jpg",
       "url_min": "2017-002 (Mobile).jpg",
