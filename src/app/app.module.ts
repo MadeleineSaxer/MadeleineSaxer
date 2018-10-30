@@ -14,8 +14,6 @@ import {
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {GalleryComponent} from './gallery/gallery.component';
 import {ExhibitionComponent} from './exhibition/exhibition.component';
-import {ContactComponent} from './contact/contact.component';
-import {MainComponent} from './main/main.component';
 import {AboutComponent} from './about/about.component';
 import {HttpClientModule} from '@angular/common/http';
 import {NgxGalleryModule} from 'ngx-gallery';
@@ -26,7 +24,6 @@ const appRoutes: Routes = [
   {path: 'gallery', component: GalleryComponent},
   {path: 'me', component: AboutComponent},
   {path: 'exhibition', component: ExhibitionComponent},
-  {path: 'contact', component: ContactComponent},
   {path: '**', component: GalleryComponent}
 ];
 
@@ -35,7 +32,6 @@ const appRoutes: Routes = [
     AppComponent,
     GalleryComponent,
     ExhibitionComponent,
-    ContactComponent
     AboutComponent
   ],
   imports: [

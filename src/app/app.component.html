@@ -6,8 +6,7 @@
          routerLinkActive="mat-accent">{{navigator.gallery}}</a>
       <a mat-button routerLink="/exhibition" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
       <a mat-button routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</a>
-      <a mat-button routerLink="/contact" routerLinkActive="active"
-         routerLinkActive="mat-accent">{{navigator.contact}}</a>
+      
       <div>
         <button mat-button ngClass="{{isGerman()? 'mat-accent': ''}}"
                 (click)="changeLanguage({isGerman: true, isEnglish:false})"> de
