@@ -27,7 +27,7 @@ const appRoutes: Routes = [
   {path: 'me', component: AboutComponent},
   {path: 'exhibition', component: ExhibitionComponent},
   {path: 'contact', component: ContactComponent},
-  {path: '**', component: MainComponent}
+  {path: '**', component: GalleryComponent}
 ];
 
 @NgModule({
@@ -35,8 +35,7 @@ const appRoutes: Routes = [
     AppComponent,
     GalleryComponent,
     ExhibitionComponent,
-    ContactComponent,
-    MainComponent,
+    ContactComponent
     AboutComponent
   ],
   imports: [
