@@ -20,7 +20,10 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/googlec250209ea6830e61.html",
-              "src/assets"
+              "src/assets",
+              "src/sitemap.xml",
+              "src/CNAME"
+
             ],
             "styles": [
               "src/styles.css",
