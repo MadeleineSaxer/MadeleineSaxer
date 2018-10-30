@@ -6,16 +6,23 @@
          routerLinkActive="mat-accent">{{navigator.gallery}}</a>
       <a mat-button routerLink="/exhibition" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
       <a mat-button routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</a>
-      
-      <div>
-        <button mat-button ngClass="{{isGerman()? 'mat-accent': ''}}"
-                (click)="changeLanguage({isGerman: true, isEnglish:false})"> de
-        </button>
-        |
-        <button mat-button ngClass="{{isEnglish()? 'mat-accent': ''}}"
-                (click)="changeLanguage({isGerman: false, isEnglish:true})"> en
-        </button>
-      </div>
+
+      <button mat-icon-button [matMenuTriggerFor]="languageMenu">
+        <mat-icon>language</mat-icon>
+      </button>
+      <mat-menu #languageMenu="matMenu">
+        <div mat-menu-item>
+          <button mat-button class="language-button" ngClass="{{isGerman()? 'mat-accent': ''}}"
+                  (click)="changeLanguage({isGerman: true, isEnglish:false})"> de
+          </button>
+        </div>
+        <div mat-menu-item>
+          <button mat-button class="language-button" ngClass="{{isEnglish()? 'mat-accent': ''}}"
+                  (click)="changeLanguage({isGerman: false, isEnglish:true})"> en
+          </button>
+        </div>
+      </mat-menu>
+
     </mat-toolbar>
   </div>
   <div class="content">
