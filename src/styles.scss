@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+//@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import '~@angular/material/theming';
+
+html, body {
+  margin: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+@include mat-core();
+$msaxer-app-primary: mat-palette($mat-indigo);
+$msaxer-app-accent:  mat-palette($mat-orange, A200, A100, A400);
+
+$msaxer-app-warn:    mat-palette($mat-red);
+
+$msaxer-app-theme: mat-light-theme($msaxer-app-primary, $msaxer-app-accent, $msaxer-app-warn);
+
+@include angular-material-theme($msaxer-app-theme);
