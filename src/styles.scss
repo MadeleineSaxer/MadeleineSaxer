@@ -10,10 +10,19 @@ html, body {
 
 @include mat-core();
 $msaxer-app-primary: mat-palette($mat-indigo);
-$msaxer-app-accent:  mat-palette($mat-orange, A200, A100, A400);
+$msaxer-app-accent: mat-palette($mat-orange, A200, A100, A400);
 
-$msaxer-app-warn:    mat-palette($mat-red);
+$msaxer-app-warn: mat-palette($mat-red);
 
 $msaxer-app-theme: mat-light-theme($msaxer-app-primary, $msaxer-app-accent, $msaxer-app-warn);
 
 @include angular-material-theme($msaxer-app-theme);
+
+* {
+  font-family: Roboto, " Helvetica Neue ", sans-serif;
+}
+
+img {
+  pointer-events: none!important;;
+}
+
