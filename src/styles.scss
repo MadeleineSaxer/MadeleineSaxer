@@ -23,6 +23,8 @@ $msaxer-app-theme: mat-light-theme($msaxer-app-primary, $msaxer-app-accent, $msa
 }
 
 img {
-  pointer-events: none!important;;
+  pointer-events: none !important;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
 }
 
