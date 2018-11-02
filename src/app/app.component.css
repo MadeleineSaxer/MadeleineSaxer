@@ -34,6 +34,12 @@
   height: 100%;
 }
 
+.nav-button {
+  height: 48px;
+  width: 160px;
+  z-index: 9999;
+}
+
 .language-button {
   height: 48px;
   width: 80px;

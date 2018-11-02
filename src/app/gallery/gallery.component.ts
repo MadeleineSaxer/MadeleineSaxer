@@ -33,7 +33,7 @@ export class GalleryComponent implements OnInit, OnDestroy {
         thumbnailsMoveSize: 6,
         thumbnailsRows: 1,
         imageAnimation: NgxGalleryAnimation.Slide,
-        layout: NgxGalleryLayout.ThumbnailsTop,
+        layout: NgxGalleryLayout.ThumbnailsBottom,
         imageDescription: true,
         imageArrows: true,
         imageSwipe: true,

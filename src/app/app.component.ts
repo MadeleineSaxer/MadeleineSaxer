@@ -1,8 +1,9 @@
-import {Component, OnDestroy, OnInit} from '@angular/core';
+import {Component, OnDestroy, OnInit, PlatformRef, ViewChild} from '@angular/core';
 import {HelperService} from './shared/helper.service';
 import {takeWhile} from 'rxjs/operators';
 import {Language} from './shared/language';
 import {Navigatortext} from './shared/navigatortext';
+import {MatToolbar} from '@angular/material';
 
 @Component({
   selector: 'app-root',
@@ -11,13 +12,11 @@ import {Navigatortext} from './shared/navigatortext';
 })
 export class AppComponent implements OnInit, OnDestroy {
 
-  helper: HelperService;
   navigator: Navigatortext;
   private alive: boolean;
   private language: Language;
 
-  constructor(helper: HelperService) {
-    this.helper = helper;
+  constructor(private helper: HelperService) {
     this.alive = true;
     this.helper.getNavigator().pipe(takeWhile(() => this.alive)).subscribe(data => this.navigator = data);
     this.helper.getLanguage().pipe(takeWhile(() => this.alive)).subscribe(data => this.language = data);
@@ -43,4 +42,8 @@ export class AppComponent implements OnInit, OnDestroy {
     return this.language && this.language.isEnglish;
   }
 
+  isMobile(): boolean {
+    console.log(window.innerWidth);
+    return window.innerWidth < 550;
+  }
 }
