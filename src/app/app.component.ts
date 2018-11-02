@@ -43,7 +43,6 @@ export class AppComponent implements OnInit, OnDestroy {
   }
 
   isMobile(): boolean {
-    console.log(window.innerWidth);
-    return window.innerWidth < 550;
+    return window.innerWidth < 600;
   }
 }

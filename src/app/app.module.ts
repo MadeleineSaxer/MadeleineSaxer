@@ -19,11 +19,13 @@ import {HttpClientModule} from '@angular/common/http';
 import {NgxGalleryModule} from 'ngx-gallery';
 import {FlexLayoutModule} from '@angular/flex-layout';
 import {AngularFontAwesomeModule} from 'angular-font-awesome';
+import {ContactComponent} from './contact/contact.component';
 
 const appRoutes: Routes = [
   {path: 'gallery', component: GalleryComponent},
   {path: 'me', component: AboutComponent},
   {path: 'exhibition', component: ExhibitionComponent},
+  {path: 'contact', component: ContactComponent},
   {path: '**', component: GalleryComponent}
 ];
 
@@ -32,7 +34,8 @@ const appRoutes: Routes = [
     AppComponent,
     GalleryComponent,
     ExhibitionComponent,
-    AboutComponent
+    AboutComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

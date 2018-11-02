@@ -1,20 +1,20 @@
 {
   "picture": [
-	{
-		"url": "2018-001 (Large).jpg",
-		"url_min": "2018-001 (Mobile).jpg",
-		"size": "80 x 120 cm",
-		"de": {
-			"title": "Weg nach Pollenca, Mallorca",
-			"desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-			"caption": "Weg nach Pollenca"
-		},
-		"en": {
-			"title": "Path to Pollenca",
-			"desc": "Oil Piant / Linen Canvas on wood 4 cm, unframed",
-			"caption": "Path to Pollenca"
-		}
-	},
+    {
+      "url": "2018-001 (Large).jpg",
+      "url_min": "2018-001 (Mobile).jpg",
+      "size": "80 x 120 cm",
+      "de": {
+        "title": "Weg nach Pollenca, Mallorca",
+        "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+        "caption": "Weg nach Pollenca"
+      },
+      "en": {
+        "title": "Path to Pollenca",
+        "desc": "Oil Piant / Linen Canvas on wood 4 cm, unframed",
+        "caption": "Path to Pollenca"
+      }
+    },
     {
       "url": "2017-002 (Large).jpg",
       "url_min": "2017-002 (Mobile).jpg",
@@ -1054,25 +1054,23 @@
   },
   "contact": {
     "de": {
-      "text": [
-        "Madeleine Saxer",
-        "Mittelrütistrasse 5",
-        "8500 Frauenfeld",
-        "Schweiz",
-        "052 / 720 44 11",
-        "madeleine.saxer@stafag.ch"
-      ],
+      "text": [],
+      "name": "Madeleine Saxer",
+      "street": "Mittelrütistrasse 5",
+      "city": "8500 Frauenfeld",
+      "country": "Schweiz",
+      "number": "052 720 44 11",
+      "email": "madeleine.saxer@stafag.ch",
       "title": "Kontakt"
     },
     "en": {
-      "text": [
-        "Madeleine Saxer",
-        "Mittelruetistrasse 5",
-        "8500 Frauenfeld",
-        "Switzerland",
-        "004152 720 44 11",
-        "madeleine.saxer@stafag.ch"
-      ],
+      "text": [],
+      "name": "Madeleine Saxer",
+      "street": "Mittelrütistrasse 5",
+      "city": "8500 Frauenfeld",
+      "country": "Switzerland",
+      "number": "004152 720 44 11",
+      "email": "madeleine.saxer@stafag.ch",
       "title": "Contact"
     }
   },

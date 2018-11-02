@@ -5,18 +5,18 @@ import {takeWhile} from 'rxjs/operators';
 import {Contact} from '../shared/contact';
 
 @Component({
-  selector: 'app-about',
-  templateUrl: './about.component.html',
-  styleUrls: ['./about.component.css']
+  selector: 'app-contact',
+  templateUrl: './contact.component.html',
+  styleUrls: ['./contact.component.css']
 })
-export class AboutComponent implements OnInit, OnDestroy {
+export class ContactComponent implements OnInit, OnDestroy {
 
-  me: Me;
+  contact: Contact;
   private alive: boolean;
 
   constructor(private helper: HelperService) {
     this.alive = true;
-    this.helper.getAboutMe().pipe(takeWhile(() => this.alive)).subscribe(data => this.me = data);
+    this.helper.getContact().pipe(takeWhile(() => this.alive)).subscribe(data => this.contact = data);
   }
 
   ngOnInit() {

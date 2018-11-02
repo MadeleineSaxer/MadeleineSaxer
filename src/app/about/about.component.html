@@ -1,27 +1,13 @@
-<mat-tab-group class="about-container">
-  <div *ngIf="me">
-    <mat-tab label="CV">
-      <div fxLayout="column">
-        <h3>{{me.title}}</h3>
-        <div fxLayout="row" fxLayout.xs="row wrap" fxLayoutGap="32px">
-          <div fxFlex="200px" class="about-picture">
-            <img class="picture" src="assets/image/me/{{me.picture}}">
-          </div>
-          <div>
-            <div fxLayout="column wrap" class="text" *ngFor="let info of me.text">{{info}}</div>
-          </div>
-        </div>
+<div class="about-container" *ngIf="me">
+  <div fxLayout="column">
+    <h3>{{me.title}}</h3>
+    <div fxLayout="row" fxLayout.xs="row wrap" fxLayoutGap="32px">
+      <div fxFlex="200px" class="about-picture">
+        <img class="picture" src="assets/image/me/{{me.picture}}">
       </div>
-    </mat-tab>
-  </div>
-
-  <div *ngIf="contact">
-    <mat-tab label="{{contact.title}}">
-      <h3>{{contact.title}}</h3>
-      <div *ngFor="let text of contact.text">
-        {{text}}
+      <div>
+        <div fxLayout="column wrap" class="text" *ngFor="let info of me.text">{{info}}</div>
       </div>
-    </mat-tab>
+    </div>
   </div>
-</mat-tab-group>
-
+</div>

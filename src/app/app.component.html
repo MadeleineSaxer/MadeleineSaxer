@@ -20,6 +20,9 @@
             <button mat-button class="nav-button" routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</button>
           </div>
           <div mat-menu-item>
+            <button mat-button class="nav-button" routerLink="/contact" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.contact}}</button>
+          </div>
+          <div mat-menu-item>
             <button mat-button class="language-button" ngClass="{{isGerman()? 'mat-accent': ''}}"
                     (click)="changeLanguage({isGerman: true, isEnglish:false})"> de
             </button>
@@ -37,6 +40,7 @@
            routerLinkActive="mat-accent">{{navigator.gallery}}</a>
         <a mat-button routerLink="/exhibition" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
         <a mat-button routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</a>
+        <a mat-button routerLink="/contact" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.contact}}</a>
 
         <button mat-icon-button [matMenuTriggerFor]="languageMenu">
           <mat-icon>language</mat-icon>
