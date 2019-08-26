@@ -1,13 +1,14 @@
 <div class="contact-container" *ngIf="contact">
   <h3>{{contact.title}}</h3>
-  <p class="info-text">{{contact.name}}</p>
-  <p class="info-text">{{contact.street}}</p>
-  <p class="info-text">{{contact.city}}</p>
-  <p class="info-text">{{contact.country}}</p>
-  <p class="info-text"><a class="no-style" href="tel:{{contact.number}}">{{contact.number}}</a></p>
-  <p class="info-text"><a class="no-style" href="mailto:{{contact.email}}">{{contact.email}}</a></p>
-  <div *ngFor="let text of contact.text">
-    {{text}}
+  <p *ngIf="contact.name" class="info-text">{{contact.name}}</p>
+  <p *ngIf="contact.street" class="info-text">{{contact.street}}</p>
+  <p *ngIf="contact.city" class="info-text">{{contact.city}}</p>
+  <p *ngIf="contact.country" class="info-text">{{contact.country}}</p>
+  <p *ngIf="contact.number" class="info-text"><a class="no-style" href="tel:{{contact.number}}">{{contact.number}}</a></p>
+  <p *ngIf="contact.email" class="info-text"><a class="no-style" href="mailto:{{contact.email}}">{{contact.email}}</a></p>
+  <div class="contact-text" fxLayout="column">
+    <div fxLayout="column wrap" class="text" *ngFor="let text of contact.text">{{text}}</div>
   </div>
 </div>
+
 

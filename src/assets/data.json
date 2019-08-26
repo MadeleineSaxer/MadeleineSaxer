@@ -1054,28 +1054,26 @@
 	},
 	"contact": {
 		"de": {
+      "name": "Madeleine Saxer",
+      "street": "Mittelrütistrasse 5",
+      "city": "8500 Frauenfeld",
+      "country": "Schweiz",
+      "number": "052 / 720 44 11",
+      "email": "madeleine.saxer@stafag.ch",
 			"text": [
-				"Madeleine Saxer",
-				"Mittelrütistrasse 5",
-				"8500 Frauenfeld",
-				"Schweiz",
-				"052 / 720 44 11",
-				"madeleine.saxer@stafag.ch",
-				"   ",
 				"Gefällt Ihnen ein Bild aber Sie wissen nicht, wie es in Ihrem Zuhause passen würde?",
 				"Kontaktieren Sie mich telefonisch oder per Email und ich bringe Ihnen unverbindlich das Bild zur Ansicht zu Ihnen nach Hause."
 			],
 			"title": "Kontakt"
 		},
 		"en": {
+      "name": "Madeleine Saxer",
+      "street": "Mittelruetistrasse 5",
+      "city": "8500 Frauenfeld",
+      "country": "Switzerland",
+      "number": "004152 720 44 11",
+      "email": "madeleine.saxer@stafag.ch",
 			"text": [
-				"Madeleine Saxer",
-				"Mittelruetistrasse 5",
-				"8500 Frauenfeld",
-				"Switzerland",
-				"004152 720 44 11",
-				"madeleine.saxer@stafag.ch",
-				" ",
 				"Is there a painting which catches your eye, but you can not imagine how it would match into your home?",
 				"Contact me by phone or email and I will bring you the painting non-committal to your home to see it on place."
 			],

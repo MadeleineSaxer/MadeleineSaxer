@@ -4,4 +4,4 @@ to deploy:
 - run: npx ngh --dir=dist/MadeleineSaxer
 
 to test on localhost:
-- change base href to /
+- change base href to / in index.html
