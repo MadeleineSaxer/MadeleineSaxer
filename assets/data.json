@@ -334,6 +334,7 @@
     "url": "2012-003 (Large).jpg",
     "url_min": "2012-003 (Mobile).jpg",
     "size": "80 x 100 cm",
+    "sold": true,
     "de": {
       "title": "Bergweg Tessin, Licht und Schatten am San Salvatore",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -1004,13 +1005,15 @@
 			"contact": "Kontakt",
 			"exhibition": "Ausstellung",
 			"me": "Über mich",
-			"gallery": "Galerie"
+			"gallery": "Galerie",
+      "soldGallery": "Verkaufte Bilder"
 		},
 		"en": {
 			"contact": "Contact",
 			"exhibition": "Exhibition",
 			"me": "About Me",
-			"gallery": "Gallery"
+			"gallery": "Gallery",
+      "soldGallery": "Sold Paintings"
 		}
 	},
 	"me": {
