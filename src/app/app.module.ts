@@ -20,9 +20,11 @@ import {NgxGalleryModule} from 'ngx-gallery';
 import {FlexLayoutModule} from '@angular/flex-layout';
 import {AngularFontAwesomeModule} from 'angular-font-awesome';
 import {ContactComponent} from './contact/contact.component';
+import {SoldGalleryComponent} from './soldGallery/soldGallery.component';
 
 const appRoutes: Routes = [
   {path: 'gallery', component: GalleryComponent},
+  {path: 'gallery-sold', component: SoldGalleryComponent},
   {path: 'me', component: AboutComponent},
   {path: 'exhibition', component: ExhibitionComponent},
   {path: 'contact', component: ContactComponent},
@@ -33,6 +35,7 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     GalleryComponent,
+    SoldGalleryComponent,
     ExhibitionComponent,
     AboutComponent,
     ContactComponent

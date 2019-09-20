@@ -3,7 +3,7 @@ import {HttpClient} from '@angular/common/http';
 import {DataDto} from './data.dto';
 import {Language} from './language';
 import {Injectable} from '@angular/core';
-import {map} from 'rxjs/operators';
+import {map, publish} from 'rxjs/operators';
 import {Contact} from './contact';
 import {ExhibitionDto, ExhibitionOpeningsDto} from './exhibition.dto';
 import {ContactDto} from './contact.dto';
@@ -68,7 +68,7 @@ export class HelperService {
       const navigatorDto: NavigatortextDto = data.navigator;
       if (language.isGerman) {
         return navigatorDto.de;
-    }
+      }
       return navigatorDto.en;
     }));
   }
@@ -130,6 +130,7 @@ export class HelperService {
     picture.caption = pictureDto.de.caption;
     picture.desc = pictureDto.de.desc;
     picture.title = pictureDto.de.title;
+    picture.sold = pictureDto.sold === null || pictureDto.sold === undefined ? false : pictureDto.sold;
     return picture;
   }
 
@@ -141,6 +142,7 @@ export class HelperService {
     picture.caption = pictureDto.en.caption;
     picture.desc = pictureDto.en.desc;
     picture.title = pictureDto.en.title;
+    picture.sold = pictureDto.sold === null || pictureDto.sold === undefined ? false : pictureDto.sold;
     return picture;
   }
 

@@ -10,17 +10,23 @@
         <mat-menu class="mobile-menu" #navigationMenu="matMenu">
           <div mat-menu-item>
             <button class="push-to-right" mat-button class="nav-button" routerLink="/gallery" routerLinkActive="active"
-               routerLinkActive="mat-accent">{{navigator.gallery}}</button>
+                    routerLinkActive="mat-accent">{{navigator.gallery}}</button>
+          </div>
+          <div mat-menu-item>
+            <button mat-button class="nav-button" routerLink="/gallery-sold" routerLinkActive="active"
+                    routerLinkActive="mat-accent">{{navigator.soldGallery}}</button>
           </div>
           <div mat-menu-item>
             <button mat-button class="nav-button" routerLink="/exhibition" routerLinkActive="active"
-               routerLinkActive="mat-accent">{{navigator.exhibition}}</button>
+                    routerLinkActive="mat-accent">{{navigator.exhibition}}</button>
           </div>
           <div mat-menu-item>
-            <button mat-button class="nav-button" routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</button>
+            <button mat-button class="nav-button" routerLink="/me" routerLinkActive="active"
+                    routerLinkActive="mat-accent">{{navigator.me}}</button>
           </div>
           <div mat-menu-item>
-            <button mat-button class="nav-button" routerLink="/contact" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.contact}}</button>
+            <button mat-button class="nav-button" routerLink="/contact" routerLinkActive="active"
+                    routerLinkActive="mat-accent">{{navigator.contact}}</button>
           </div>
           <div mat-menu-item>
             <button mat-button class="language-button" ngClass="{{isGerman()? 'mat-accent': ''}}"
@@ -38,9 +44,13 @@
         <a class="title" mat-button routerLink="/gallery" routerLinkActive="active">Madeleine Saxer</a>
         <a class="push-to-right" mat-button routerLink="/gallery" routerLinkActive="active"
            routerLinkActive="mat-accent">{{navigator.gallery}}</a>
-        <a mat-button routerLink="/exhibition" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
+        <a mat-button routerLink="/gallery-sold" routerLinkActive="active"
+           routerLinkActive="mat-accent">{{navigator.soldGallery}}</a>
+        <a mat-button routerLink="/exhibition" routerLinkActive="active"
+           routerLinkActive="mat-accent">{{navigator.exhibition}}</a>
         <a mat-button routerLink="/me" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.me}}</a>
-        <a mat-button routerLink="/contact" routerLinkActive="active" routerLinkActive="mat-accent">{{navigator.contact}}</a>
+        <a mat-button routerLink="/contact" routerLinkActive="active"
+           routerLinkActive="mat-accent">{{navigator.contact}}</a>
 
         <button mat-icon-button [matMenuTriggerFor]="languageMenu">
           <mat-icon>language</mat-icon>

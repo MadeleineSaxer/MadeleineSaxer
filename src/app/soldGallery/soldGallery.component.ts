@@ -6,11 +6,11 @@ import 'hammerjs';
 import {NgxGalleryAnimation, NgxGalleryImage, NgxGalleryImageSize, NgxGalleryLayout} from 'ngx-gallery';
 
 @Component({
-  selector: 'app-gallery',
-  templateUrl: './gallery.component.html',
-  styleUrls: ['./gallery.component.css']
+  selector: 'app-sold-gallery',
+  templateUrl: './soldGallery.component.html',
+  styleUrls: ['../gallery/gallery.component.css']
 })
-export class GalleryComponent implements OnInit, OnDestroy {
+export class SoldGalleryComponent implements OnInit, OnDestroy {
   pictures: Picture[];
   private alive: boolean;
   galleryOptions;
@@ -78,7 +78,7 @@ export class GalleryComponent implements OnInit, OnDestroy {
     const gallery: NgxGalleryImage[] = [];
     const path = 'assets/image/paintings/';
     pictures.forEach((picture: Picture) => {
-      if (picture.sold !== false) {
+      if (picture.sold !== true) {
         return;
       }
       gallery.push(

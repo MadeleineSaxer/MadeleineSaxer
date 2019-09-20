@@ -3,4 +3,5 @@ export class Navigatortext {
   exhibition: string;
   me: string;
   gallery: string;
+  soldGallery: string;
 }

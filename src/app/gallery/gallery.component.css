@@ -8,3 +8,20 @@
   height: calc(100% - 64px);
   width: calc(100% - 64px);
 }
+
+::ng-deep .ngx-gallery-preview-img-wrapper {
+  background: rgba(0, 0, 0, 0.9)
+}
+
+::ng-deep .ngx-gallery-preview-text {
+  background: rgba(0, 0, 0, 0.9) !important;
+  color: #909090 !important;
+}
+
+.ngx-gallery-icon .ngx-gallery-icon-content {
+  color: #909090 !important;
+}
+
+::ng-deep .ngx-gallery-icon .ngx-gallery-icon-content {
+  color: #e2e2e2 !important;
+}

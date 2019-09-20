@@ -5,4 +5,5 @@ export class Picture {
   title: string;
   desc: string;
   caption: string;
+  sold: boolean;
 }
