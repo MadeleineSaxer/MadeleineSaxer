@@ -109,6 +109,7 @@
     "url": "2016-001 (Large).jpg",
     "url_min": "2016-001 (Mobile).jpg",
     "size": "100 x 160 cm",
+	"sold": true,
     "de": {
       "title": "Birke am Weg nach Obholz, Foto 15.10.2008",
       "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -214,7 +215,8 @@
     "url": "2014-003 (Large).jpg",
     "url_min": "2014-003 (Mobile).jpg",
     "size": "140 x 100 cm",
-    "de": {
+    "sold": true,
+	"de": {
       "title": "Tessin, Bergbach bei Lago di Mognola",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "Ri di Mognola"
@@ -441,7 +443,8 @@
     "url": "2010-004 (Large).jpg",
     "url_min": "2010-004 (Mobile).jpg",
     "size": "100 x 70 cm",
-    "de": {
+    "sold": true,
+	"de": {
       "title": "Maggia",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "Maggia"
@@ -546,6 +549,7 @@
     "url": "2008-004 (Large).jpg",
     "url_min": "2008-004 (Mobile).jpg",
     "size": "60 x 120 cm",
+	"sold": true,
     "de": {
       "title": "Meerwasser ruhig",
       "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -576,6 +580,7 @@
     "url": "2008-002 (Large).jpg",
     "url_min": "2008-002 (Mobile).jpg",
     "size": "170 x 90 cm",
+	"sold": true,
     "de": {
       "title": "Abstrakt Orange/rot/grün nach Rothko",
       "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -651,6 +656,7 @@
     "url": "2007-007 (Large).jpg",
     "url_min": "2007-007 (Mobile).jpg",
     "size": "60 x 30 cm (N.A.)",
+	"sold": true,
     "de": {
       "title": "Sydney Harbour Bridge",
       "desc": "Aquarell / Papier, gerahmt, ca 70 x 40 cm",
@@ -666,6 +672,7 @@
     "url": "2007-006 (Large).jpg",
     "url_min": "2007-006 (Mobile).jpg",
     "size": "30 x 40 cm",
+	"sold": true,
     "de": {
       "title": "Lighthouse Beach mit Kindern",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -696,6 +703,7 @@
     "url": "2007-004 (Large).jpg",
     "url_min": "2007-004 (Mobile).jpg",
     "size": "50 x 40 cm",
+	"sold": true,
     "de": {
       "title": "Lighthouse Beach mit Kindern",
       "desc": "Aquarell / Papier, gerahmt 66 x 48 cm",
@@ -711,6 +719,7 @@
     "url": "2007-003 (Large).jpg",
     "url_min": "2007-003 (Mobile).jpg",
     "size": "40 x 50 cm",
+	"sold": true,
     "de": {
       "title": "Fischen in Dunbogan",
       "desc": "Aquarell / Papier, gerahmt 56 x 70 cm",
@@ -726,6 +735,7 @@
     "url": "2007-002 (Large).jpg",
     "url_min": "2007-002 (Mobile).jpg",
     "size": "60 x 40 cm",
+	"sold": true,
     "de": {
       "title": "Delfine",
       "desc": "Aquarell / Papier, gerahmt 71 x 52 cm",
