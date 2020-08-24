@@ -1,6 +1,38 @@
 {
 	"picture": [
   {
+    "url": "2020-003 (Large).jpg",
+    "url_min": "2020-003 (Mobile).jpg",
+    "size": "120 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Früher Morgen am Lower Kananaskis Lake Kanada",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Kananaskis Lake"
+    },
+    "en": {
+      "title": "Early morning at lower Kananaskis Lake Canada",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Kananaskis Lake"
+    }
+  },
+  {
+    "url": "2020-002 (Large).jpg",
+    "url_min": "2020-002 (Mobile).jpg",
+    "size": "38 x 76 cm",
+    "sold": false,
+    "de": {
+      "title": "Sommerabend in der Seebadi Mammern",
+      "desc": "Öl (Orig) / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Seebadi Mammern"
+    },
+    "en": {
+      "title": "Evening at Lido Mammern Lake Constance ",
+      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
+      "caption": "Evening at Lake Constance"
+    }
+  },
+  {
     "url": "2020-001 (Large).jpg",
     "url_min": "2020-001 (Mobile).jpg",
     "size": "100 x 80 cm",
@@ -555,7 +587,7 @@
       "caption": "Bodensee-Regatta"
     },
     "en": {
-      "title": "Regatta on Bodensee",
+      "title": "Regatta on Lake Constance",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Regatta"
     }
@@ -1041,19 +1073,19 @@
     }
   },
   {
-    "url": "Skizze 2013-003 (Large).jpg",
-    "url_min": "Skizze 2013-003 (Mobile).jpg",
-    "size": "30 x 40 cm",
+    "url": "Skizze 2013-001 (Large).jpg",
+    "url_min": "Skizze 2013-001 (Mobile).jpg",
+    "size": "40 x 50 cm",
     "sold": false,
     "de": {
-      "title": "Arbeitsskizze Portrait-Kurs",
-      "desc": "Kohle / Papier",
-      "caption": "Portrait-Skizze Marilyn"
+      "title": "Skizze Akt-Kurs Mann",
+      "desc": "Acryl / Papier",
+      "caption": "Akt-Skizze Mann"
     },
     "en": {
-      "title": "Portrait sketch",
-      "desc": "Charcoal / Paper",
-      "caption": "Portrait sketch Marilyn"
+      "title": "Nude sketch",
+      "desc": "Acryl / Paper",
+      "caption": "Nude sketch man"
     }
   },
   {
@@ -1073,19 +1105,19 @@
     }
   },
   {
-    "url": "Skizze 2013-001 (Large).jpg",
-    "url_min": "Skizze 2013-001 (Mobile).jpg",
-    "size": "40 x 50 cm",
+    "url": "Skizze 2013-003 (Large).jpg",
+    "url_min": "Skizze 2013-003 (Mobile).jpg",
+    "size": "30 x 40 cm",
     "sold": false,
     "de": {
-      "title": "Skizze Akt-Kurs Mann",
-      "desc": "Acryl / Papier",
-      "caption": "Akt-Skizze Mann"
+      "title": "Arbeitsskizze Portrait-Kurs",
+      "desc": "Kohle / Papier",
+      "caption": "Portrait-Skizze Marilyn"
     },
     "en": {
-      "title": "Nude sketch",
-      "desc": "Acryl / Paper",
-      "caption": "Nude sketch man"
+      "title": "Portrait sketch",
+      "desc": "Charcoal / Paper",
+      "caption": "Portrait sketch Marilyn"
     }
   }
 ],
@@ -1103,7 +1135,7 @@
 			"exhibition": "Ausstellung",
 			"me": "Über mich",
 			"gallery": "Galerie",
-      "soldGallery": "Verkaufte Bilder"
+      "soldGallery": "Bilder "
 		},
 		"en": {
 			"contact": "Contact",
@@ -1118,21 +1150,27 @@
 		"de": {
 			"title": "Madeleine Saxer",
 			"text": [
-				"Geboren 1965 im Tösstal, lebe und arbeite ich in der Ostschweiz. Meine Malerei übe ich seit über 25 Jahren als Nebenbeschäftigung aus. Im Hauptberuf arbeitete ich als Informatikerin und später als dreifache Mutter mit Teilzeit Pensen in kaufmännischen Bereichen. Ein Familienjahr in Australien hat mich stark geprägt und die Faszination zur Fotografie und Malerei gefestigt. Die Weite, die Klarheit des Lichts und die Intensität der australischen Sonne hat die Farbgebung in meinen Bildern massgeblich beeinflusst.",
-				"Viele meiner Bilder sind mit Ölfarben erarbeitet. Eine Technik, die sehr viel Zeit erfordert, mit der meiner Meinung nach jedoch eine vielseitigere Textur und Farbtiefe erreicht wird als mit anderen Medien. Ich verwende keinerlei Vordruck oder Projektion, sondern male von der Skizze bis zum fertigen Bild alles Frei Hand, meistens auf der Basis meiner eigenen Fotografien. Jedes Bild ist ein Unikat.",
-				"Meine künstlerische Entwicklung wurde begleitet durch Kurse bei verschiedenen Kunstdozenten und Kunstmalern im In- und Ausland. Ich sehe mich selber jedoch nicht als Künstlerin, sondern als Kunsthandwerkerin und stellte 2015 meine Werke zum ersten Mal öffentlich aus.",
-				"Durch das Abbilden auf zweidimensionalen Medien wie Bildschirm oder Papier verliert ein Gemälde genau das, was es einzigartig macht. Die Farbbrillanz sowie die Erhebung der Farbe und der Schwung des Pinselstrichs auf der Leinwand sind nicht darstellbar. Zudem wird die Präsenz eines Gemäldes auch durch dessen Grösse definiert, was durch die Fotografie verloren geht.",
-				"Erwägen Sie ein Bild zu erwerben? Dann kontaktieren Sie mich für einen unverbindlichen Ansichtstermin!"
+				"Die Malerei ist für mich eine Art Meditation. Die Konzentration auf Details und Stimmungen, Farbe und Formen lassen keine anderen Einflüsse zu. Die Faszination von Wasser und Natur, Gegensätze von Licht und Schatten, Bewegung und Ruhe sind treibend.",
+				"Mit meinen Bildern möchte ich Ihnen Gefühle und Gedanken in Erinnerung rufen und damit ein spezielles Ambiente in Ihren Raum bringen.",
+				"Deshalb müssen Sie ein Bild «in Natura» erleben können. Durch das zweidimensionale Abbilden verliert ein Gemälde genau das, was es einzigartig macht. Die Farbbrillanz sowie die Erhebung der Farbe und der Schwung des Pinselstrichs auf der Leinwand sind nicht darstellbar. Zudem wird die Präsenz eines Gemäldes auch durch dessen Grösse und Platzierung definiert, was durch die Fotografie verloren geht.",
+				"",
+				"Kontaktieren Sie mich für einen unverbindlichen Ansichtstermin!",
+				"",
+				"Geboren 1965 im Tösstal, lebe und arbeite ich in der Ostschweiz. Meine Malerei übe ich seit über 25 Jahren als Nebenbeschäftigung aus. Im Hauptberuf arbeitete ich als Informatikerin und später als dreifache Mutter mit Teilzeit Pensen in kaufmännischen Bereichen. Ein Familienjahr in Australien hat mich stark geprägt. Die Weite, die Klarheit des Lichts und die Intensität der australischen Sonne hat die Farbgebung in meinen Bildern massgeblich beeinflusst.",
+				"Viele meiner Bilder sind mit Ölfarben erarbeitet. Eine Technik, die sehr viel Zeit erfordert, mit der meiner Meinung nach jedoch eine vielseitigere Textur und Farbtiefe erreicht wird als mit anderen Medien. Ich verwende keinerlei Vordruck oder Projektion, sondern male von der Skizze bis zum fertigen Bild alles Frei Hand, die Wahl der Sujets resultiert aus der Liebe zum Reisen und zur Fotografie. Jedes Bild ist ein Unikat"
 			]
 		},
 		"en": {
 			"title": "Madeleine Saxer",
 			"text": [
-				"Born in 1965, I live and work in Eastern Switzerland. I have been practicing my painting as a sideline for more than 25 years. In the main job I worked as a computer scientist and later as a threefold mother with part-time pens in commercial areas. A family year in Australia has shaped and strengthened my fascination for photography and painting. The expanse, the clarity of the light and the intensity of the Australian sun have significantly influenced the color scheme in my pictures.",
-				"Many of my pictures are drawn with oil paints. A technique that requires a lot of time with which, in my opinion, a more versatile texture and color depth is achieved than with other media. My works are all painted from sketch, mostly based on my own photographs. I do not use any form of projection or preprint. Every painting is unique.",
-				"My artistic development was accompanied by various artists and art lecturers at home and abroad. However, I do not see myself as an artist, but as an artisan and exhibited my works in public for the first time in 2015.",
-				"By imaging on two-dimensional media such as screens or paper, a painting loses exactly what makes it unique. The color brilliance and elevation or the sweep of the brush stroke on the canvas cannot be represented. In addition, the presence of a painting is also defined by its size, which is lost through photography.",
-				"Are you considering acquiring a picture? Then contact me for a non-binding view date!"
+				"Painting is a kind of meditation for me. Focusing on details and moods, color and shapes does not allow other influences. The fascination for water and nature, contrasts of light and shadow, movement and serenity are driving.",
+				"With my pictures I would like to remind you of feelings and thoughts and thus bring a special ambience into your room.",
+				"That is why you have to be able to experience a picture “in person”. By imaging on two-dimensional media, a painting loses exactly what makes it unique. The color brilliance and elevation or the sweep of the brush stroke on the canvas cannot be represented. In addition, the presence of a painting is also defined by its size, which is lost through photography.",
+				" ",
+				"Contact me for a non-binding view date!",
+				" ",
+				"Born in 1965, I live and work in Eastern Switzerland. I have been practicing my painting as a sideline for more than 25 years. In the main job I worked as a computer scientist and later as a threefold mother with part-time pens in commercial areas. A family year in Australia has shaped me deeply. The expanse, the clarity of the light and the intensity of the Australian sun have significantly influenced the color scheme in my pictures.",
+				"Many of my pictures are drawn with oil paints. A technique that requires a lot of time with which, in my opinion, a more versatile texture and color depth is achieved than with other media. My works are all painted from sketch, mostly based on my own photographs. I do not use any form of projection or preprint. Every painting is unique"
 			]
 		}
 	},
