@@ -33,7 +33,7 @@ export class GalleryComponent implements OnInit, OnDestroy {
         thumbnailsMoveSize: 10,
         thumbnailsRows: 5,
         imageAnimation: NgxGalleryAnimation.Slide,
-        layout: NgxGalleryLayout.ThumbnailsBottom,
+        layout: NgxGalleryLayout.ThumbnailsTop,
         imageDescription: true,
         imageArrows: true,
         imageSwipe: true,
@@ -42,7 +42,7 @@ export class GalleryComponent implements OnInit, OnDestroy {
         previewKeyboardNavigation: true,
         thumbnailsRemainingCount: false,
         width: '100%',
-        height: '500px',
+        height: '100%',
         thumbnailsPercent: '100',
         thumbnailsArrows: true,
         thumbnailsSwipe: true,
@@ -50,30 +50,33 @@ export class GalleryComponent implements OnInit, OnDestroy {
         imagePercent: 0,
         image: false,
       },
+      // max-width 1300
+      {
+        thumbnailsColumns: 6,
+        thumbnailsRows: 5,
+        thumbnailsMoveSize: 6,
+        breakpoint: 1300,
+      },
       // max-width 800
       {
         thumbnailsColumns: 6,
         thumbnailsRows: 5,
         thumbnailsMoveSize: 6,
         breakpoint: 800,
-        width: '100%',
-        height: '500px',
       },
-      // max-width 500
+      // max-width 700
       {
-        thumbnailsColumns: 4,
+        thumbnailsColumns: 3,
         thumbnailsRows: 5,
         thumbnailsMoveSize: 4,
-        breakpoint: 500,
-        width: '100%',
-        height: '500px',
+        breakpoint: 700,
       },
-      // max-width 300
+      // max-width 500
       {
         thumbnailsColumns: 2,
         thumbnailsRows: 5,
         thumbnailsMoveSize: 2,
-        breakpoint: 300,
+        breakpoint: 500,
       },
     ];
   }
