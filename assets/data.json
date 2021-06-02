@@ -1,6 +1,22 @@
 {
   "picture": [
   {
+    "url": "2021-001 (Large).jpg",
+    "url_min": "2021-001 (Mobile).jpg",
+    "size": "100 x 150 cm",
+    "sold": false,
+    "de": {
+      "title": "Eineinhalb Quadratmeter Wald (Mühletobel)",
+      "desc": "Acryl / Leinwand auf Holz 2 cm, ungerahmt",
+      "caption": "Mühletobel"
+    },
+    "en": {
+      "title": "One and a half square meters of forest (Mühletobel)",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Mühletobel forest"
+    }
+  },
+  {
     "url": "2020-004 (Large).jpg",
     "url_min": "2020-004 (Mobile).jpg",
     "size": "150 x 100 cm",
