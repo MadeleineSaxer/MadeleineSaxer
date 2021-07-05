@@ -7,7 +7,7 @@
     "sold": false,
     "de": {
       "title": "Eineinhalb Quadratmeter Wald (Mühletobel)",
-      "desc": "Acryl / Leinwand auf Holz 2 cm, ungerahmt",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
       "caption": "Mühletobel"
     },
     "en": {
@@ -28,7 +28,7 @@
     },
     "en": {
       "title": "Early summer in Val Osura, swiss mountain valley",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
       "caption": "Val Osura"
     }
   },
@@ -43,25 +43,9 @@
       "caption": "Kananaskis Lake"
     },
     "en": {
-      "title": "Early morning at lower Kananaskis Lake, Canada",
+      "title": "Morning at lower Kananaskis Lake, Canada",
       "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
       "caption": "Kananaskis Lake"
-    }
-  },
-  {
-    "url": "2020-002 (Large).jpg",
-    "url_min": "2020-002 (Mobile).jpg",
-    "size": "38 x 76 cm",
-    "sold": false,
-    "de": {
-      "title": "Sommerabend in der Seebadi Mammern",
-      "desc": "Öl (Orig) / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Seebadi Mammern"
-    },
-    "en": {
-      "title": "Evening at Lido Mammern Lake Constance ",
-      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
-      "caption": "Evening at Lake Constance"
     }
   },
   {
@@ -75,7 +59,7 @@
       "caption": "Greina "
     },
     "en": {
-      "title": "Greina in automn light",
+      "title": "Greina in automn light with hiker",
       "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
       "caption": "Greina in autumn light"
     }
@@ -91,41 +75,9 @@
       "caption": "Hala Baum oberhalb Polulu"
     },
     "en": {
-      "title": "Hala tree at Polulu Beach, Big Island Hawaii",
+      "title": "Hala tree at Polulu Beach hiking trail, Big Island Hawaii",
       "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
       "caption": "Hala tree at Polulu Beach"
-    }
-  },
-  {
-    "url": "2019-001 (Large).jpg",
-    "url_min": "2019-001 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Sommerwiese mit rotem Mohn",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Roter Mohn"
-    },
-    "en": {
-      "title": "Red Poppy",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Red Poppy"
-    }
-  },
-  {
-    "url": "2018-002 (Large).jpg",
-    "url_min": "2018-002 (Mobile).jpg",
-    "size": "80 x 120 cm",
-    "sold": false,
-    "de": {
-      "title": "Rotbuche mit Efeu, Frauenfeld",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Efeu auf Rotbuche"
-    },
-    "en": {
-      "title": "Ivy on European beech",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Ivy"
     }
   },
   {
@@ -139,25 +91,9 @@
       "caption": "Weg zum Santuari ob Pollenca"
     },
     "en": {
-      "title": "Path to a old sanctuari near Pollenca, Mallorca",
+      "title": "Path to the Santuari de Déu del Puig near Pollenca, Mallorca",
       "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
       "caption": "Path near Pollenca"
-    }
-  },
-  {
-    "url": "2017-002 (Large).jpg",
-    "url_min": "2017-002 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Monochrom Löwenzahn",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Monochrom"
-    },
-    "en": {
-      "title": "Monochrome dandelions",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Monochrome"
     }
   },
   {
@@ -177,22 +113,6 @@
     }
   },
   {
-    "url": "2016-003 (Large).jpg",
-    "url_min": "2016-003 (Mobile).jpg",
-    "size": "140 x 120 cm",
-    "sold": false,
-    "de": {
-      "title": "Frühlingswiese im Abendlicht",
-      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Chrottebösche"
-    },
-    "en": {
-      "title": "Springtime meadows in evening lights",
-      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Dandelion"
-    }
-  },
-  {
     "url": "2016-002 (Large).jpg",
     "url_min": "2016-002 (Mobile).jpg",
     "size": "140 x 120 cm",
@@ -203,57 +123,9 @@
       "caption": "Chicago"
     },
     "en": {
-      "title": "Chicago City, glowing evening in 2015",
+      "title": "Chicago City on a glowing summer evening",
       "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
       "caption": "Chicago"
-    }
-  },
-  {
-    "url": "2016-001 (Large).jpg",
-    "url_min": "2016-001 (Mobile).jpg",
-    "size": "100 x 160 cm",
-    "sold": true,
-    "de": {
-      "title": "Birke am Weg nach Obholz im Herbst 2008",
-      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Birke"
-    },
-    "en": {
-      "title": "Birch tree on the way to Obholz Frauenfeld",
-      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Birch tree"
-    }
-  },
-  {
-    "url": "2015-004 (Large).jpg",
-    "url_min": "2015-004 (Mobile).jpg",
-    "size": "120 x 120 cm",
-    "sold": false,
-    "de": {
-      "title": "Blüte einer weissen Herbstanemone",
-      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Herbstanemone"
-    },
-    "en": {
-      "title": "Blossom of a white automn anemone",
-      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Automn anemone"
-    }
-  },
-  {
-    "url": "2015-003 (Large).jpg",
-    "url_min": "2015-003 (Mobile).jpg",
-    "size": "120 x 160 cm",
-    "sold": false,
-    "de": {
-      "title": "Quercus, Eiche",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Quercus"
-    },
-    "en": {
-      "title": "Quercus, Oak",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Quercus"
     }
   },
   {
@@ -267,73 +139,25 @@
       "caption": "Picnic Bay"
     },
     "en": {
-      "title": "Picnic Bay at Wilsons Promontory N.P. near Melbourne",
+      "title": "Picnic Bay at Wilsons Promontory N.P. Australia",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Picnic Bay"
-    }
-  },
-  {
-    "url": "2015-001 (Large).jpg",
-    "url_min": "2015-001 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Tautropfen auf Gras in Island, Thingvellir",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Tautropfen"
-    },
-    "en": {
-      "title": "Dew drops on grass in Iceland Nationalpark",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Dew drops"
-    }
-  },
-  {
-    "url": "2014-005 (Large).jpg",
-    "url_min": "2014-005 (Mobile).jpg",
-    "size": "100 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Sommerwald Guemühlitobel, Elgg ",
-      "desc": "Öl (Orig) / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Sommerwald"
-    },
-    "en": {
-      "title": "Summer Forest Guemühlitobel, Elgg ",
-      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
-      "caption": "Summer Forest"
-    }
-  },
-  {
-    "url": "2014-004 (Large).jpg",
-    "url_min": "2014-004 (Mobile).jpg",
-    "size": "80 x 100 cm",
-    "sold": false,
-    "de": {
-      "title": "Eukalyptusbäume Sunbury",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Eukalyptus"
-    },
-    "en": {
-      "title": "Eucalypt (Gum trees) in Sunbury",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Gum tree"
     }
   },
   {
     "url": "2014-003 (Large).jpg",
     "url_min": "2014-003 (Mobile).jpg",
     "size": "140 x 100 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Tessin, Bergbach bei Lago di Mognola",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "Ri di Mognola"
     },
     "en": {
-      "title": "Ticino, Mountain river at Lago Magnolo",
+      "title": "Ticino, mountain stream near Lago di Mognola",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Mountain river"
+      "caption": "Ri di Mognola"
     }
   },
   {
@@ -353,147 +177,19 @@
     }
   },
   {
-    "url": "2014-001 (Large).jpg",
-    "url_min": "2014-001 (Mobile).jpg",
-    "size": "40 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Abstrakt Herbsttöne",
-      "desc": "Acryl (Golden) / Leinwand auf Holz 2 cm, ungerahmt",
-      "caption": "Abstrakt Herbsttöne"
-    },
-    "en": {
-      "title": "Abstract Autumn Colors",
-      "desc": "Acryl (Golden) / Canvas on wood 2 cm, unframed",
-      "caption": "Abstract"
-    }
-  },
-  {
-    "url": "2013-005 (Large).jpg",
-    "url_min": "2013-005 (Mobile).jpg",
-    "size": "60 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Zwergrose aus meinem Garten",
-      "desc": "Öl (Orig) / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Rose"
-    },
-    "en": {
-      "title": "Bushrose in my garden",
-      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
-      "caption": "Rose"
-    }
-  },
-  {
-    "url": "2013-004 (Large).jpg",
-    "url_min": "2013-004 (Mobile).jpg",
-    "size": "100 x 70 cm",
-    "sold": false,
-    "de": {
-      "title": "Palmenblatt dunkel, Cote d'Azur",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Palmenblatt"
-    },
-    "en": {
-      "title": "Palm leaf dark, Cote d'Azur",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Palm leaf"
-    }
-  },
-  {
-    "url": "2013-003 (Large).jpg",
-    "url_min": "2013-003 (Mobile).jpg",
-    "size": "90 x 90 cm",
-    "sold": false,
-    "de": {
-      "title": "kühle Lady Portrait",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Lady"
-    },
-    "en": {
-      "title": "Cool Lady Portrait",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Lady"
-    }
-  },
-  {
-    "url": "2013-002 (Large).jpg",
-    "url_min": "2013-002 (Mobile).jpg",
-    "size": "100 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Jack Sparrow Portrait",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Jack Sparrow"
-    },
-    "en": {
-      "title": "Jack Sparrow Portrait",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Jack Sparrow"
-    }
-  },
-  {
-    "url": "2013-001 (Large).jpg",
-    "url_min": "2013-001 (Mobile).jpg",
-    "size": "100 x 100 cm",
-    "sold": false,
-    "de": {
-      "title": "Gelbe Rose gross",
-      "desc": "Acryl / Leinwand auf Holz 4 cm abgeschrägt, ungerahmt",
-      "caption": "Rose"
-    },
-    "en": {
-      "title": "Yellow rose",
-      "desc": "Acryl / Canvas on wood 4 cm bevelled, unframed",
-      "caption": "Yellow rose"
-    }
-  },
-  {
     "url": "2012-003 (Large).jpg",
     "url_min": "2012-003 (Mobile).jpg",
     "size": "80 x 100 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Bergweg Tessin, Licht und Schatten am San Salvatore",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "San Salvatore"
     },
     "en": {
-      "title": "Mountain path Ticino, Light and Shadow",
+      "title": "Ticino mountain trail, light and shadow on San Salvatore",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Mountain path"
-    }
-  },
-  {
-    "url": "2012-002 (Large).jpg",
-    "url_min": "2012-002 (Mobile).jpg",
-    "size": "70 x 100 cm",
-    "sold": true,
-    "de": {
-      "title": "Zwei Ahornbäume, Tessin",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Ahorn"
-    },
-    "en": {
-      "title": "Two Maple Trees, Ticino",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Maple Trees"
-    }
-  },
-  {
-    "url": "2012-001 (Large).jpg",
-    "url_min": "2012-001 (Mobile).jpg",
-    "size": "80 x 120 cm",
-    "sold": false,
-    "de": {
-      "title": "Abstrakt warm rot/schwarz nach Rothko",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Abstrakt rot"
-    },
-    "en": {
-      "title": "Abstract warm red/black based on Rothko",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Abstract warm"
+      "caption": "San Salvatore"
     }
   },
   {
@@ -507,41 +203,9 @@
       "caption": "Sturm"
     },
     "en": {
-      "title": "Stormy day on Bodensee, looking towards Säntis",
+      "title": "Lake Constance on a stormy day, view to the Säntis",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Stormy day"
-    }
-  },
-  {
-    "url": "2011-002 (Large).jpg",
-    "url_min": "2011-002 (Mobile).jpg",
-    "size": "70 x 100 cm",
-    "sold": false,
-    "de": {
-      "title": "Palmenblatt Cote d'Azur hell",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Palmenblatt"
-    },
-    "en": {
-      "title": "Palm leaf Cote d'Azur ",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Palm leaf"
-    }
-  },
-  {
-    "url": "2011-001 (Large).jpg",
-    "url_min": "2011-001 (Mobile).jpg",
-    "size": "80 x 100 cm",
-    "sold": false,
-    "de": {
-      "title": "Frau sieht nach links, nach Claude Monet",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Frau sieht nach links"
-    },
-    "en": {
-      "title": "Woman looking to the left, based on Claude Monet",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Woman"
     }
   },
   {
@@ -555,7 +219,7 @@
       "caption": "Abendlicht"
     },
     "en": {
-      "title": "Small lake in evening lights (Hüttwilersee)",
+      "title": "Small lake in evening light (Hüttwilersee)",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Evening lights"
     }
@@ -564,7 +228,7 @@
     "url": "2010-004 (Large).jpg",
     "url_min": "2010-004 (Mobile).jpg",
     "size": "100 x 70 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Maggia",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -587,7 +251,7 @@
       "caption": "Lighthouse Beach"
     },
     "en": {
-      "title": "Lighthouse Beach  Port Macquarie",
+      "title": "Lighthouse Beach Port Macquarie",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Lighthouse Beach"
     }
@@ -598,12 +262,12 @@
     "size": "80 x 120 cm",
     "sold": false,
     "de": {
-      "title": "Cape Sta Maria",
+      "title": "Cape Santa Maria, Bahamas",
       "desc": "Öl, Sand / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "Bahamas"
     },
     "en": {
-      "title": "Cape Sta Maria",
+      "title": "Cape Santa Maria, Bahamas",
       "desc": "Oil Paint, Sand / Canvas on wood 4 cm, unframed",
       "caption": "Bahamas"
     }
@@ -635,9 +299,89 @@
       "caption": "am Scheideweg"
     },
     "en": {
-      "title": "Kid on a sunny day in automn above Frauenfeld",
+      "title": "Kid on a sunny day in autumn above Frauenfeld",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Autumn day"
+    }
+  },
+  {
+    "url": "2008-003 (Large).jpg",
+    "url_min": "2008-003 (Mobile).jpg",
+    "size": "55 x 110 cm",
+    "sold": false,
+    "de": {
+      "title": "Herbstmorgen mit Nebel oberhalb Frauenfeld",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "nebliger Morgen"
+    },
+    "en": {
+      "title": "Misty autumn morning above Frauenfeld",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Misty Morning"
+    }
+  },
+  {
+    "url": "2008-001 (Large).jpg",
+    "url_min": "2008-001 (Mobile).jpg",
+    "size": "50 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Gerlos, Wald im Morgenlicht",
+      "desc": "Acryl, Sand / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Wald im Morgenlicht"
+    },
+    "en": {
+      "title": "Gerlos, wood in morning lights",
+      "desc": "Acryl, Sand / Canvas on wood 4 cm, unframed",
+      "caption": "Morning Light"
+    }
+  },
+  {
+    "url": "2007-010 (Large).jpg",
+    "url_min": "2007-010 (Mobile).jpg",
+    "size": "50 x 40 cm",
+    "sold": false,
+    "de": {
+      "title": "Australien Outback",
+      "desc": "Acryl (AM) / Leinwand auf Holz 2 cm, gerahmt 54 x 43 cm",
+      "caption": "Outback"
+    },
+    "en": {
+      "title": "Australia outback",
+      "desc": "Acryl (AM) / Canvas on wood 2 cm, framed",
+      "caption": "Outback"
+    }
+  },
+  {
+    "url": "2007-005 (Large).jpg",
+    "url_min": "2007-005 (Mobile).jpg",
+    "size": "50 x 40 cm",
+    "sold": false,
+    "de": {
+      "title": "Lighthouse Port Macquarie",
+      "desc": "Acryl (AM) / Leinwand gerahmt 60 x 50 cm",
+      "caption": "Lighthouse Beach"
+    },
+    "en": {
+      "title": "Lighthouse Port Macquarie",
+      "desc": "Acryl (AM) / Canvas on wood, framed 60 x 50 cm",
+      "caption": "Lighthouse Beach"
+    }
+  },
+  {
+    "url": "2020-002 (Large).jpg",
+    "url_min": "2020-002 (Mobile).jpg",
+    "size": "38 x 76 cm",
+    "sold": false,
+    "de": {
+      "title": "Sommerabend in der Seebadi Mammern",
+      "desc": "Öl (Orig) / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Seebadi Mammern"
+    },
+    "en": {
+      "title": "Evening at lido Mammern Lake Constance ",
+      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
+      "caption": "Evening at Lake Constance"
     }
   },
   {
@@ -646,7 +390,7 @@
     "size": "70 x 100 cm",
     "sold": false,
     "de": {
-      "title": "alte Holztür im Tourbillon, Sion",
+      "title": "alte Holztür im Schloss Tourbillon, Sion",
       "desc": "Acryl, Sand / Leinwand auf Holz 4 cm, ungerahmt",
       "caption": "Tourbillon"
     },
@@ -676,7 +420,7 @@
     "url": "2008-004 (Large).jpg",
     "url_min": "2008-004 (Mobile).jpg",
     "size": "60 x 120 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Meerwasser ruhig",
       "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
@@ -689,83 +433,131 @@
     }
   },
   {
-    "url": "2008-003 (Large).jpg",
-    "url_min": "2008-003 (Mobile).jpg",
-    "size": "55 x 110 cm",
+    "url": "2004-002 (Large).jpg",
+    "url_min": "2004-002 (Mobile).jpg",
+    "size": "30 x 60 cm",
     "sold": false,
     "de": {
-      "title": "Herbstmorgen mit Nebel oberhalb Frauenfeld",
+      "title": "Bergbach, Steine",
       "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "nebliger Morgen"
+      "caption": "Bergbach, Steine"
     },
     "en": {
-      "title": "Misty autumn morning above Frauenfeld",
+      "title": "Stones in a mountain creek",
       "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Misty Morning"
+      "caption": "Stones"
     }
   },
   {
-    "url": "2008-002 (Large).jpg",
-    "url_min": "2008-002 (Mobile).jpg",
-    "size": "170 x 90 cm",
-    "sold": true,
-    "de": {
-      "title": "Abstrakt Orange/rot/grün nach Rothko",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Abstrakt  Orange"
-    },
-    "en": {
-      "title": "Abstrakt Orange/rot/grün based on Rothko",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Abstract orange"
-    }
-  },
-  {
-    "url": "2008-001 (Large).jpg",
-    "url_min": "2008-001 (Mobile).jpg",
-    "size": "50 x 80 cm",
+    "url": "2019-001 (Large).jpg",
+    "url_min": "2019-001 (Mobile).jpg",
+    "size": "80 x 80 cm",
     "sold": false,
     "de": {
-      "title": "Gerlos, Wald im Morgenlicht",
-      "desc": "Acryl, Sand / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Wald im Morgenlicht"
+      "title": "Sommerwiese mit rotem Mohn",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Roter Mohn"
     },
     "en": {
-      "title": "Gerlos, Wood in morning lights",
-      "desc": "Acryl, Sand / Canvas on wood 4 cm, unframed",
-      "caption": "Morning Light"
+      "title": "Summer meadow with red poppies",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Red Poppy"
     }
   },
   {
-    "url": "2007-010 (Large).jpg",
-    "url_min": "2007-010 (Mobile).jpg",
-    "size": "50 x 40 cm",
+    "url": "2016-003 (Large).jpg",
+    "url_min": "2016-003 (Mobile).jpg",
+    "size": "140 x 120 cm",
     "sold": false,
     "de": {
-      "title": "Australien Outback",
-      "desc": "Acryl (AM) / Leinwand auf Holz 2 cm, gerahmt 54 x 43 cm",
-      "caption": "Outback"
+      "title": "Frühlingswiese im Abendlicht",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Chrottebösche"
     },
     "en": {
-      "title": "Australia Outback",
-      "desc": "Acryl (AM) / Canvas on wood 2 cm, framed",
-      "caption": "Outback"
+      "title": "Springtime meadows in evening lights",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Dandelion"
     }
   },
   {
-    "url": "2007-009 (Large).jpg",
-    "url_min": "2007-009 (Mobile).jpg",
-    "size": "40 x 60 cm",
+    "url": "2017-002 (Large).jpg",
+    "url_min": "2017-002 (Mobile).jpg",
+    "size": "80 x 80 cm",
     "sold": false,
     "de": {
-      "title": "Seerosen, Australien",
-      "desc": "Aquarell / Papier, gerahmt 56 x 71 cm",
-      "caption": "Seerosen"
+      "title": "Monochrom Löwenzahn",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Monochrom"
     },
     "en": {
-      "title": "Water Lilies, Australia",
-      "desc": "Water Colors on paper, framed 56 x 71 cm",
-      "caption": "Water Lilies"
+      "title": "Monochrome dandelions",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Monochrome"
+    }
+  },
+  {
+    "url": "2015-004 (Large).jpg",
+    "url_min": "2015-004 (Mobile).jpg",
+    "size": "120 x 120 cm",
+    "sold": false,
+    "de": {
+      "title": "Blüte einer weissen Herbstanemone",
+      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Herbstanemone"
+    },
+    "en": {
+      "title": "Blossom of a white automn anemone",
+      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Automn anemone"
+    }
+  },
+  {
+    "url": "2015-001 (Large).jpg",
+    "url_min": "2015-001 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Tautropfen auf Gras in Island, Thingvellir",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Tautropfen"
+    },
+    "en": {
+      "title": "Dew drops on grass in Iceland, Thingvellir",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Dew drops"
+    }
+  },
+  {
+    "url": "2013-005 (Large).jpg",
+    "url_min": "2013-005 (Mobile).jpg",
+    "size": "60 x 60 cm",
+    "sold": false,
+    "de": {
+      "title": "Zwergrose aus meinem Garten",
+      "desc": "Öl (Orig) / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Rose"
+    },
+    "en": {
+      "title": "Bushrose in my garden",
+      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
+      "caption": "Rose"
+    }
+  },
+  {
+    "url": "2013-001 (Large).jpg",
+    "url_min": "2013-001 (Mobile).jpg",
+    "size": "100 x 100 cm",
+    "sold": false,
+    "de": {
+      "title": "Gelbe Rose gross",
+      "desc": "Acryl / Leinwand auf Holz 4 cm abgeschrägt, ungerahmt",
+      "caption": "Rose"
+    },
+    "en": {
+      "title": "Yellow rose",
+      "desc": "Acryl / Canvas on wood 4 cm bevelled, unframed",
+      "caption": "Yellow rose"
     }
   },
   {
@@ -785,58 +577,346 @@
     }
   },
   {
-    "url": "2007-007 (Large).jpg",
-    "url_min": "2007-007 (Mobile).jpg",
-    "size": "60 x 30 cm",
-    "sold": true,
+    "url": "2006-001 (Large).jpg",
+    "url_min": "2006-001 (Mobile).jpg",
+    "size": "45 x 45 cm",
+    "sold": false,
     "de": {
-      "title": "Sydney Harbour Bridge",
-      "desc": "Aquarell / Papier, gerahmt, ca 70 x 40 cm",
-      "caption": "Sydney Harbour Bridge"
+      "title": "Waratah (Telopea speciosissima), New South Wales",
+      "desc": "Acryl (AM) / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Waratah"
     },
     "en": {
-      "title": "Sydney Harbour Bridge",
-      "desc": "Water Colors on paper, framed 70 x 40 cm",
-      "caption": "Sydney Harbour Bridge"
+      "title": "Waratah (Telopea speciosissima), New South Wales",
+      "desc": "Acryl (AM) / Canvas on wood 4 cm, unframed",
+      "caption": "Waratah"
     }
   },
   {
-    "url": "2007-006 (Large).jpg",
-    "url_min": "2007-006 (Mobile).jpg",
-    "size": "30 x 40 cm",
-    "sold": true,
+    "url": "2005-002 (Large).jpg",
+    "url_min": "2005-002 (Mobile).jpg",
+    "size": "80 x 60 cm",
+    "sold": false,
     "de": {
-      "title": "Lighthouse Beach mit Kindern",
+      "title": "Alpenmohn, Tre Cime, Dolomiten",
+      "desc": "Acryl / Leinwand auf Holz 2 cm, ungerahmt",
+      "caption": "Alpenmohn"
+    },
+    "en": {
+      "title": "Alpine poppies, Tre Cime, Dolomites",
+      "desc": "Acryl / Canvas on wood 2 cm, unframed",
+      "caption": "Alpine Poppy"
+    }
+  },
+  {
+    "url": "2004-004 (Large).jpg",
+    "url_min": "2004-004 (Mobile).jpg",
+    "size": "60 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Seerosenblätter im Wasser",
+      "desc": "Acryl, Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Seerosenblatt"
+    },
+    "en": {
+      "title": "Lotus leaves",
+      "desc": "Acryl and oil paint / Canvas on wood 4 cm, unframed",
+      "caption": "Lotus leaves"
+    }
+  },
+  {
+    "url": "2004-001 (Large).jpg",
+    "url_min": "2004-001 (Mobile).jpg",
+    "size": "80 x 60 cm",
+    "sold": false,
+    "de": {
+      "title": "Aloe",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Aloe"
+    },
+    "en": {
+      "title": "Aloe",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Aloe"
+    }
+  },
+  {
+    "url": "2018-002 (Large).jpg",
+    "url_min": "2018-002 (Mobile).jpg",
+    "size": "80 x 120 cm",
+    "sold": false,
+    "de": {
+      "title": "Rotbuche mit Efeu, Frauenfeld",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Efeu auf Rotbuche"
+    },
+    "en": {
+      "title": "Ivy on European beech",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Ivy"
+    }
+  },
+  {
+    "url": "2016-001 (Large).jpg",
+    "url_min": "2016-001 (Mobile).jpg",
+    "size": "100 x 160 cm",
+    "sold": false,
+    "de": {
+      "title": "Birke am Weg nach Obholz",
+      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Birke"
+    },
+    "en": {
+      "title": "Birch tree on the way to Obholz Frauenfeld",
+      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Birch tree"
+    }
+  },
+  {
+    "url": "2015-003 (Large).jpg",
+    "url_min": "2015-003 (Mobile).jpg",
+    "size": "120 x 160 cm",
+    "sold": false,
+    "de": {
+      "title": "Quercus, Eiche",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Quercus"
+    },
+    "en": {
+      "title": "Quercus, Oak",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Quercus"
+    }
+  },
+  {
+    "url": "2014-004 (Large).jpg",
+    "url_min": "2014-004 (Mobile).jpg",
+    "size": "80 x 100 cm",
+    "sold": false,
+    "de": {
+      "title": "Eukalyptusbäume Sunbury",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Eukalyptus"
+    },
+    "en": {
+      "title": "Eucalyptus (Gum trees) in Sunbury Australia",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Gum tree"
+    }
+  },
+  {
+    "url": "2012-002 (Large).jpg",
+    "url_min": "2012-002 (Mobile).jpg",
+    "size": "70 x 100 cm",
+    "sold": false,
+    "de": {
+      "title": "Zwei Ahornbäume, Tessin",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Lighthouse Beach"
+      "caption": "Ahorn"
     },
     "en": {
-      "title": "Lighthouse Beach with Kids",
+      "title": "Two maple trees, Ticino",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Lighthouse Beach"
+      "caption": "Maple Trees"
     }
   },
   {
-    "url": "2007-005 (Large).jpg",
-    "url_min": "2007-005 (Mobile).jpg",
-    "size": "50 x 40 cm",
-    "sold": true,
+    "url": "2014-005 (Large).jpg",
+    "url_min": "2014-005 (Mobile).jpg",
+    "size": "100 x 80 cm",
+    "sold": false,
     "de": {
-      "title": "Lighthouse Port Macquarie",
-      "desc": "Acryl (AM) / Leinwand gerahmt 60 x 50 cm",
-      "caption": "Lighthouse Beach"
+      "title": "Sommerwald Guemühlitobel, Elgg ",
+      "desc": "Öl (Orig) / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Sommerwald"
     },
     "en": {
-      "title": "Lighthouse Port Macquarie",
-      "desc": "Acryl (AM) / Canvas on wood, framed 60 x 50 cm",
-      "caption": "Lighthouse Beach"
+      "title": "Summer forest Guemühlitobel, Elgg ",
+      "desc": "Oil Paint (Orig)  / Canvas on wood 4 cm, unframed",
+      "caption": "Summer Forest"
+    }
+  },
+  {
+    "url": "2013-004 (Large).jpg",
+    "url_min": "2013-004 (Mobile).jpg",
+    "size": "100 x 70 cm",
+    "sold": false,
+    "de": {
+      "title": "Palmenblatt dunkel, Cote d'Azur",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Palmenblatt"
+    },
+    "en": {
+      "title": "Palm leaf dark, Cote d'Azur",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Palm leaf"
+    }
+  },
+  {
+    "url": "2011-002 (Large).jpg",
+    "url_min": "2011-002 (Mobile).jpg",
+    "size": "70 x 100 cm",
+    "sold": false,
+    "de": {
+      "title": "Palmenblatt Cote d'Azur hell",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Palmenblatt"
+    },
+    "en": {
+      "title": "Palm leaf Cote d'Azur ",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Palm leaf"
+    }
+  },
+  {
+    "url": "2013-003 (Large).jpg",
+    "url_min": "2013-003 (Mobile).jpg",
+    "size": "90 x 90 cm",
+    "sold": false,
+    "de": {
+      "title": "kühle Lady Portrait",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Lady"
+    },
+    "en": {
+      "title": "cool lady",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Lady"
+    }
+  },
+  {
+    "url": "2013-002 (Large).jpg",
+    "url_min": "2013-002 (Mobile).jpg",
+    "size": "100 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Jack Sparrow Portrait",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Jack Sparrow"
+    },
+    "en": {
+      "title": "Jack Sparrow portrait",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Jack Sparrow"
+    }
+  },
+  {
+    "url": "2011-001 (Large).jpg",
+    "url_min": "2011-001 (Mobile).jpg",
+    "size": "80 x 100 cm",
+    "sold": false,
+    "de": {
+      "title": "Frau sieht nach links, nach Claude Monet",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Frau sieht nach links"
+    },
+    "en": {
+      "title": "Woman looking to the left, based on Claude Monet",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Woman"
+    }
+  },
+  {
+    "url": "2004-003 (Large).jpg",
+    "url_min": "2004-003 (Mobile).jpg",
+    "size": "80 x 60 cm",
+    "sold": false,
+    "de": {
+      "title": "Dame mit Hut nach Eduard Hopper",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, gerahmt",
+      "caption": "Dame mit Hut"
+    },
+    "en": {
+      "title": "Lady with hat based on Eduard Hopper",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Lady with hat"
+    }
+  },
+  {
+    "url": "Skizze 2013-001 (Large).jpg",
+    "url_min": "Skizze 2013-001 (Mobile).jpg",
+    "size": "40 x 50 cm",
+    "sold": false,
+    "de": {
+      "title": "Skizze Akt Mann",
+      "desc": "Acryl / Papier",
+      "caption": "Akt-Skizze Mann"
+    },
+    "en": {
+      "title": "Nude man sketch",
+      "desc": "Acrylic paint on paper",
+      "caption": "Nude sketch man"
+    }
+  },
+  {
+    "url": "Skizze 2013-002 (Large).jpg",
+    "url_min": "Skizze 2013-002 (Mobile).jpg",
+    "size": "40 x 50 cm",
+    "sold": false,
+    "de": {
+      "title": "Skizze Akt Frau",
+      "desc": "Acryl / Papier",
+      "caption": "Akt-Skizze Frau"
+    },
+    "en": {
+      "title": "Nude woman sketch",
+      "desc": "Acrylic paint on paper",
+      "caption": "Nude sketch woman"
+    }
+  },
+  {
+    "url": "Skizze 2013-003 (Large).jpg",
+    "url_min": "Skizze 2013-003 (Mobile).jpg",
+    "size": "30 x 40 cm",
+    "sold": false,
+    "de": {
+      "title": "Arbeitsskizze Portrait",
+      "desc": "Kohle / Papier",
+      "caption": "Portrait-Skizze Marilyn"
+    },
+    "en": {
+      "title": "Portrait sketch",
+      "desc": "Charcoal on paper",
+      "caption": "Portrait sketch Marilyn"
+    }
+  },
+  {
+    "url": "2005-001 (Large).jpg",
+    "url_min": "2005-001 (Mobile).jpg",
+    "size": "50 x 70 cm",
+    "sold": false,
+    "de": {
+      "title": "Akt Frau",
+      "desc": "Pastellkreide / Papier, gerahmt 68 x 74 cm",
+      "caption": "Akt Frau"
+    },
+    "en": {
+      "title": "Nude woman",
+      "desc": "Pastels on Paper, framed 68 x 74 cm",
+      "caption": "Nude"
+    }
+  },
+  {
+    "url": "2007-009 (Large).jpg",
+    "url_min": "2007-009 (Mobile).jpg",
+    "size": "40 x 60 cm",
+    "sold": false,
+    "de": {
+      "title": "Seerosen, Australien",
+      "desc": "Aquarell / Papier, gerahmt 56 x 71 cm",
+      "caption": "Seerosen"
+    },
+    "en": {
+      "title": "Water Lilies, Australia",
+      "desc": "Water Colors on paper, framed 56 x 71 cm",
+      "caption": "Water Lilies"
     }
   },
   {
     "url": "2007-004 (Large).jpg",
     "url_min": "2007-004 (Mobile).jpg",
     "size": "50 x 40 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Lighthouse Beach Port Macquarie mit Kindern",
       "desc": "Aquarell / Papier, gerahmt 66 x 48 cm",
@@ -852,7 +932,7 @@
     "url": "2007-003 (Large).jpg",
     "url_min": "2007-003 (Mobile).jpg",
     "size": "40 x 50 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Fischen in Dunbogan",
       "desc": "Aquarell / Papier, gerahmt 56 x 70 cm",
@@ -868,7 +948,7 @@
     "url": "2007-002 (Large).jpg",
     "url_min": "2007-002 (Mobile).jpg",
     "size": "60 x 40 cm",
-    "sold": true,
+    "sold": false,
     "de": {
       "title": "Delfine",
       "desc": "Aquarell / Papier, gerahmt 71 x 52 cm",
@@ -897,35 +977,51 @@
     }
   },
   {
-    "url": "2006-002 (Large).jpg",
-    "url_min": "2006-002 (Mobile).jpg",
-    "size": "60 x 40 cm",
+    "url": "2014-001 (Large).jpg",
+    "url_min": "2014-001 (Mobile).jpg",
+    "size": "40 x 80 cm",
     "sold": false,
     "de": {
-      "title": "Weisser Mohn",
-      "desc": "Pastellkreide / Papier, gerahmt 75 x 58 cm",
-      "caption": "Weisser Mohn"
+      "title": "Abstrakt Herbsttöne",
+      "desc": "Acryl (Golden) / Leinwand auf Holz 2 cm, ungerahmt",
+      "caption": "Abstrakt Herbsttöne"
     },
     "en": {
-      "title": "White Poppy",
-      "desc": "Pastels on Paper, framed 75 x 58 cm",
-      "caption": "White Poppy"
+      "title": "Abstract in autumn colors",
+      "desc": "Acryl (Golden) / Canvas on wood 2 cm, unframed",
+      "caption": "Abstract"
     }
   },
   {
-    "url": "2006-001 (Large).jpg",
-    "url_min": "2006-001 (Mobile).jpg",
-    "size": "45 x 45 cm",
+    "url": "2012-001 (Large).jpg",
+    "url_min": "2012-001 (Mobile).jpg",
+    "size": "80 x 120 cm",
     "sold": false,
     "de": {
-      "title": "Waratah (Telopea speciosissima), New South Wales",
-      "desc": "Acryl (AM) / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Waratah"
+      "title": "Abstrakt warm rot/schwarz nach Rothko",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Abstrakt rot"
     },
     "en": {
-      "title": "Waratah",
-      "desc": "Acryl (AM) / Canvas on wood 4 cm, unframed",
-      "caption": "Waratah"
+      "title": "Abstract warm red/black based on Rothko",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Abstract warm"
+    }
+  },
+  {
+    "url": "2008-002 (Large).jpg",
+    "url_min": "2008-002 (Mobile).jpg",
+    "size": "170 x 90 cm",
+    "sold": false,
+    "de": {
+      "title": "Abstrakt Orange/rot/grün nach Rothko",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Abstract  Orange"
+    },
+    "en": {
+      "title": "Abstract orange/red/green based on Rothko",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Abstract orange"
     }
   },
   {
@@ -939,7 +1035,7 @@
       "caption": "Hibiskus"
     },
     "en": {
-      "title": "Hibiscus positiv/negativ, two-piece",
+      "title": "Hibiscus positive / negative, 2 parts",
       "desc": "Acryl / Canvas on wood 4 cm, unframed",
       "caption": "Hibiscus abstracts"
     }
@@ -955,121 +1051,9 @@
       "caption": "Hibiskus"
     },
     "en": {
-      "title": "Hibiscus positiv/negativ, two-piece",
+      "title": "Hibiscus positive / negative, 2 parts",
       "desc": "Acryl / Canvas on wood 4 cm, unframed",
       "caption": "Hibiscus abstracts"
-    }
-  },
-  {
-    "url": "2005-002 (Large).jpg",
-    "url_min": "2005-002 (Mobile).jpg",
-    "size": "80 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Alpenmohn, Tre Cime, Dolomiten",
-      "desc": "Acryl / Leinwand auf Holz 2 cm, ungerahmt",
-      "caption": "Alpenmohn"
-    },
-    "en": {
-      "title": "Alpine Poppy",
-      "desc": "Acryl / Canvas on wood 2 cm, unframed",
-      "caption": "Alpine Poppy"
-    }
-  },
-  {
-    "url": "2005-001 (Large).jpg",
-    "url_min": "2005-001 (Mobile).jpg",
-    "size": "50 x 70 cm",
-    "sold": false,
-    "de": {
-      "title": "Akt Frau",
-      "desc": "Pastellkreide / Papier, gerahmt 68 x 74 cm",
-      "caption": "Akt Frau"
-    },
-    "en": {
-      "title": "Nude",
-      "desc": "Pastels on Paper, framed 68 x 74 cm",
-      "caption": "Nude"
-    }
-  },
-  {
-    "url": "2004-004 (Large).jpg",
-    "url_min": "2004-004 (Mobile).jpg",
-    "size": "60 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Seerosenblätter im Wasser",
-      "desc": "Acryl, Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Seerosenblatt"
-    },
-    "en": {
-      "title": "Lotus Leaves",
-      "desc": "Acryl and oil paint / Canvas on wood 4 cm, unframed",
-      "caption": "Lotus Leaves"
-    }
-  },
-  {
-    "url": "2004-003 (Large).jpg",
-    "url_min": "2004-003 (Mobile).jpg",
-    "size": "80 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Dame mit Hut nach Eduard Hopper",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, gerahmt",
-      "caption": "Dame mit Hut"
-    },
-    "en": {
-      "title": "Lady with hat (based on Eduard Hopper)",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Lady with hat"
-    }
-  },
-  {
-    "url": "2004-002 (Large).jpg",
-    "url_min": "2004-002 (Mobile).jpg",
-    "size": "30 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Bergbach, Steine",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Bergbach, Steine"
-    },
-    "en": {
-      "title": "Stones in a creek",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Stones"
-    }
-  },
-  {
-    "url": "2004-001 (Large).jpg",
-    "url_min": "2004-001 (Mobile).jpg",
-    "size": "80 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Aloe",
-      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Aloe"
-    },
-    "en": {
-      "title": "Aloe",
-      "desc": "Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Aloe"
-    }
-  },
-  {
-    "url": "2002-001 (Large).jpg",
-    "url_min": "2002-001 (Mobile).jpg",
-    "size": "40 x 60 cm",
-    "sold": false,
-    "de": {
-      "title": "Abstrakt gelb",
-      "desc": "Acryl / Leinwand auf Holz 2 cm, ungerahmt",
-      "caption": "Abstrakt gelb"
-    },
-    "en": {
-      "title": "Abstract yellow",
-      "desc": "Acryl / Canvas on wood 2 cm, unframed",
-      "caption": "Abstract yellow"
     }
   },
   {
@@ -1083,7 +1067,7 @@
       "caption": "Abstrakt blau"
     },
     "en": {
-      "title": "Abstract blue (two-piece)",
+      "title": "Abstract blue (two-part)",
       "desc": "Acryl  / Canvas on wood 2 cm, unframed",
       "caption": "Abstracts blue "
     }
@@ -1099,59 +1083,156 @@
       "caption": "Abstrakt blau"
     },
     "en": {
-      "title": "Abstract blue (two-piece)",
+      "title": "Abstract blue (two-part)",
       "desc": "Acryl  / Canvas on wood 2 cm, unframed",
       "caption": "Abstracts blue "
     }
   },
   {
-    "url": "Skizze 2013-001 (Large).jpg",
-    "url_min": "Skizze 2013-001 (Mobile).jpg",
-    "size": "40 x 50 cm",
-    "sold": false,
+    "url": "Showroom_1 (Large).jpg",
+    "url_min": "Showroom_1 (Mobile).jpg",
+    "size": "150 x 100 cm",
+    "sold": true,
     "de": {
-      "title": "Skizze Akt Mann",
-      "desc": "Acryl / Papier",
-      "caption": "Akt-Skizze Mann"
+      "title": "Tessin, Frühsommer im Val Osura",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Val Osura"
     },
     "en": {
-      "title": "Nude sketch",
-      "desc": "Acryl / Paper",
-      "caption": "Nude sketch man"
+      "title": "Early summer in Val Osura, swiss mountain valley",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Val Osura"
     }
   },
   {
-    "url": "Skizze 2013-002 (Large).jpg",
-    "url_min": "Skizze 2013-002 (Mobile).jpg",
-    "size": "40 x 50 cm",
-    "sold": false,
+    "url": "Showroom_2 (Large).jpg",
+    "url_min": "Showroom_2 (Mobile).jpg",
+    "size": "140 x 120 cm",
+    "sold": true,
     "de": {
-      "title": "Skizze Akt Frau",
-      "desc": "Acryl / Papier",
-      "caption": "Akt-Skizze Frau"
+      "title": "Chicago City, leuchtender Sommerabend 2015",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Chicago"
     },
     "en": {
-      "title": "Nude sketch",
-      "desc": "Acryl / Paper",
-      "caption": "Nude sketch woman"
+      "title": "Chicago City on a glowing summer evening",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Chicago"
     }
   },
   {
-    "url": "Skizze 2013-003 (Large).jpg",
-    "url_min": "Skizze 2013-003 (Mobile).jpg",
-    "size": "30 x 40 cm",
-    "sold": false,
+    "url": "Showroom_3 (Large).jpg",
+    "url_min": "Showroom_3 (Mobile).jpg",
+    "size": "140 x 120 cm",
+    "sold": true,
     "de": {
-      "title": "Arbeitsskizze Portrait",
-      "desc": "Kohle / Papier",
-      "caption": "Portrait-Skizze Marilyn"
+      "title": "Frühlingswiese im Abendlicht",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Chrottebösche"
     },
     "en": {
-      "title": "Portrait sketch",
-      "desc": "Charcoal / Paper",
-      "caption": "Portrait sketch Marilyn"
+      "title": "Springtime meadows in evening lights",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Dandelion"
+    }
+  },
+  {
+    "url": "Showroom_4 (Large).jpg",
+    "url_min": "Showroom_4 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": true,
+    "de": {
+      "title": "Tautropfen auf Gras in Island, Thingvellir",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Tautropfen"
+    },
+    "en": {
+      "title": "Dew drops on grass in Iceland, Thingvellir",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Dew drops"
+    }
+  },
+  {
+    "url": "Showroom_5 (Large).jpg",
+    "url_min": "Showroom_5 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": true,
+    "de": {
+      "title": "Sommerwiese mit rotem Mohn",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Roter Mohn"
+    },
+    "en": {
+      "title": "Summer meadow with red poppies",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Red Poppy"
+    }
+  },
+  {
+    "url": "Showroom_6 (Large).jpg",
+    "url_min": "Showroom_6 (Mobile).jpg",
+    "size": "55 x 110 cm",
+    "sold": true,
+    "de": {
+      "title": "Herbstmorgen mit Nebel oberhalb Frauenfeld",
+      "desc": "Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "nebliger Morgen"
+    },
+    "en": {
+      "title": "Misty autumn morning above Frauenfeld",
+      "desc": "Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Misty Morning"
+    }
+  },
+  {
+    "url": "Showroom_7 (Large).jpg",
+    "url_min": "Showroom_7 (Mobile).jpg",
+    "size": "80 x 120 cm",
+    "sold": true,
+    "de": {
+      "title": "Rotbuche mit Efeu, Frauenfeld",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Efeu auf Rotbuche"
+    },
+    "en": {
+      "title": "Ivy on European beech",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Ivy"
+    }
+  },
+  {
+    "url": "Showroom_8 (Large).jpg",
+    "url_min": "Showroom_8 (Mobile).jpg",
+    "size": "100 x 150 cm",
+    "sold": true,
+    "de": {
+      "title": "Eineinhalb Quadratmeter Wald (Mühletobel)",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Mühletobel"
+    },
+    "en": {
+      "title": "One and a half square meters of forest (Mühletobel)",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Mühletobel forest"
+    }
+  },
+  {
+    "url": "Showroom_9 (Large).jpg",
+    "url_min": "Showroom_9 (Mobile).jpg",
+    "size": "180 x 120 cm",
+    "sold": true,
+    "de": {
+      "title": "Flüela - Val Grialetsch (Radönt)",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Val Grialetsch"
+    },
+    "en": {
+      "title": "Val Grialetsch, Switzerland",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Val Grialetsch"
     }
   }
+
 ],
   "general": {
     "de": {
