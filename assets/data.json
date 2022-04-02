@@ -1,9 +1,25 @@
 {
   "picture": [
   {
+    "url": "2022-001 (Large).jpg",
+    "url_min": "2022-001 (Mobile).jpg",
+    "size": "70 x 140 cm",
+    "sold": false,
+    "de": {
+      "title": "Wasserfall Island Thingvellir Nationalpark",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Wasserfall"
+    },
+    "en": {
+      "title": "Waterfall in Thingvellir Nationalpark Iceland",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Waterfall"
+    }
+  },
+  {
     "url": "2021-002 (Large).jpg",
     "url_min": "2021-002 (Mobile).jpg",
-    "size": "180 x 20 cm",
+    "size": "150 x 100 cm",
     "sold": false,
     "de": {
       "title": "Val Colla im Abendlicht",
@@ -62,6 +78,22 @@
       "title": "Morning at lower Kananaskis Lake, Canada",
       "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
       "caption": "Kananaskis Lake"
+    }
+  },
+  {
+    "url": "2020-001 (Large).jpg",
+    "url_min": "2020-001 (Mobile).jpg",
+    "size": "100 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Greina im Herbstlicht",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Greina "
+    },
+    "en": {
+      "title": "Greina in automn light with hiker",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Greina in autumn light"
     }
   },
   {
@@ -129,51 +161,19 @@
     }
   },
   {
-    "url": "2018-002 (Large).jpg",
-    "url_min": "2018-002 (Mobile).jpg",
-    "size": "80 x 120 cm",
+    "url": "2016-001 (Large).jpg",
+    "url_min": "2016-001 (Mobile).jpg",
+    "size": "100 x 160 cm",
     "sold": false,
     "de": {
-      "title": "Rotbuche mit Efeu, Frauenfeld",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Efeu auf Rotbuche"
+      "title": "Birke am Weg nach Obholz",
+      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Birke"
     },
     "en": {
-      "title": "Ivy on European beech",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Ivy"
-    }
-  },
-  {
-    "url": "2019-001 (Large).jpg",
-    "url_min": "2019-001 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Sommerwiese mit rotem Mohn",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Roter Mohn"
-    },
-    "en": {
-      "title": "Summer meadow with red poppies",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Red Poppy"
-    }
-  },
-  {
-    "url": "2020-001 (Large).jpg",
-    "url_min": "2020-001 (Mobile).jpg",
-    "size": "100 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Greina im Herbstlicht",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Greina "
-    },
-    "en": {
-      "title": "Greina in automn light with hiker",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Greina in autumn light"
+      "title": "Birch tree on the way to Obholz Frauenfeld",
+      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Birch tree"
     }
   },
   {
@@ -193,67 +193,19 @@
     }
   },
   {
-    "url": "2016-003 (Large).jpg",
-    "url_min": "2016-003 (Mobile).jpg",
-    "size": "140 x 120 cm",
+    "url": "2014-003 (Large).jpg",
+    "url_min": "2014-003 (Mobile).jpg",
+    "size": "140 x 100 cm",
     "sold": false,
     "de": {
-      "title": "Frühlingswiese im Abendlicht",
-      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Chrottebösche"
-    },
-    "en": {
-      "title": "Springtime meadows in evening lights",
-      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Dandelion"
-    }
-  },
-  {
-    "url": "2017-002 (Large).jpg",
-    "url_min": "2017-002 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Monochrom Löwenzahn",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Monochrom"
-    },
-    "en": {
-      "title": "Monochrome dandelions",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Monochrome"
-    }
-  },
-  {
-    "url": "2015-004 (Large).jpg",
-    "url_min": "2015-004 (Mobile).jpg",
-    "size": "120 x 120 cm",
-    "sold": false,
-    "de": {
-      "title": "Blüte einer weissen Herbstanemone",
-      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Herbstanemone"
-    },
-    "en": {
-      "title": "Blossom of a white automn anemone",
-      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Automn anemone"
-    }
-  },
-  {
-    "url": "2015-001 (Large).jpg",
-    "url_min": "2015-001 (Mobile).jpg",
-    "size": "80 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Tautropfen auf Gras in Island, Thingvellir",
+      "title": "Tessin, Bergbach bei Lago di Mognola",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Tautropfen"
+      "caption": "Ri di Mognola"
     },
     "en": {
-      "title": "Dew drops on grass in Iceland, Thingvellir",
+      "title": "Ticino, mountain stream near Lago di Mognola",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Dew drops"
+      "caption": "Ri di Mognola"
     }
   },
   {
@@ -273,54 +225,6 @@
     }
   },
   {
-    "url": "2011-003 (Large).jpg",
-    "url_min": "2011-003 (Mobile).jpg",
-    "size": "100 x 100 cm",
-    "sold": false,
-    "de": {
-      "title": "Bodensee an stürmischem Tag mit Boot",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Sturm"
-    },
-    "en": {
-      "title": "Lake Constance on a stormy day, view to the Säntis",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Stormy day"
-    }
-  },
-  {
-    "url": "2016-001 (Large).jpg",
-    "url_min": "2016-001 (Mobile).jpg",
-    "size": "100 x 160 cm",
-    "sold": false,
-    "de": {
-      "title": "Birke am Weg nach Obholz",
-      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Birke"
-    },
-    "en": {
-      "title": "Birch tree on the way to Obholz Frauenfeld",
-      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
-      "caption": "Birch tree"
-    }
-  },
-  {
-    "url": "2010-005 (Large).jpg",
-    "url_min": "2010-005 (Mobile).jpg",
-    "size": "60 x 80 cm",
-    "sold": false,
-    "de": {
-      "title": "Hüttwilersee im Abendlicht",
-      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Abendlicht"
-    },
-    "en": {
-      "title": "Small lake in evening light (Hüttwilersee)",
-      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Evening lights"
-    }
-  },
-  {
     "url": "2012-003 (Large).jpg",
     "url_min": "2012-003 (Mobile).jpg",
     "size": "80 x 100 cm",
@@ -337,19 +241,35 @@
     }
   },
   {
-    "url": "2014-003 (Large).jpg",
-    "url_min": "2014-003 (Mobile).jpg",
-    "size": "140 x 100 cm",
+    "url": "2011-003 (Large).jpg",
+    "url_min": "2011-003 (Mobile).jpg",
+    "size": "100 x 100 cm",
     "sold": false,
     "de": {
-      "title": "Tessin, Bergbach bei Lago di Mognola",
+      "title": "Bodensee an stürmischem Tag mit Boot",
       "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
-      "caption": "Ri di Mognola"
+      "caption": "Sturm"
     },
     "en": {
-      "title": "Ticino, mountain stream near Lago di Mognola",
+      "title": "Lake Constance on a stormy day, view to the Säntis",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
-      "caption": "Ri di Mognola"
+      "caption": "Stormy day"
+    }
+  },
+  {
+    "url": "2010-005 (Large).jpg",
+    "url_min": "2010-005 (Mobile).jpg",
+    "size": "60 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Hüttwilersee im Abendlicht",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Abendlicht"
+    },
+    "en": {
+      "title": "Small lake in evening light (Hüttwilersee)",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Evening lights"
     }
   },
   {
@@ -414,22 +334,6 @@
       "title": "Regatta on Lake Constance",
       "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
       "caption": "Regatta"
-    }
-  },
-  {
-    "url": "2021-004 (Large).jpg",
-    "url_min": "2021-004 (Mobile).jpg",
-    "size": "90 x 70 cm",
-    "sold": false,
-    "de": {
-      "title": "Sonnenuntergang bei der Linde Obholz",
-      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
-      "caption": "Linde Obholz"
-    },
-    "en": {
-      "title": "Sunset over linden tree in Frauenfeld",
-      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
-      "caption": "Sunset linden tree"
     }
   },
   {
@@ -561,6 +465,22 @@
     }
   },
   {
+    "url": "2021-004 (Large).jpg",
+    "url_min": "2021-004 (Mobile).jpg",
+    "size": "90 x 70 cm",
+    "sold": false,
+    "de": {
+      "title": "Sonnenuntergang bei der Linde Obholz",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Linde Obholz"
+    },
+    "en": {
+      "title": "Sunset over linden tree in Frauenfeld",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Sunset linden tree"
+    }
+  },
+  {
     "url": "2009-001 (Large).jpg",
     "url_min": "2009-001 (Mobile).jpg",
     "size": "60 x 90 cm",
@@ -606,6 +526,86 @@
       "title": "Stones in a mountain creek",
       "desc": "Acryl / Canvas on wood 4 cm, unframed",
       "caption": "Stones"
+    }
+  },
+  {
+    "url": "2019-001 (Large).jpg",
+    "url_min": "2019-001 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Sommerwiese mit rotem Mohn",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Roter Mohn"
+    },
+    "en": {
+      "title": "Summer meadow with red poppies",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Red Poppy"
+    }
+  },
+  {
+    "url": "2016-003 (Large).jpg",
+    "url_min": "2016-003 (Mobile).jpg",
+    "size": "140 x 120 cm",
+    "sold": false,
+    "de": {
+      "title": "Frühlingswiese im Abendlicht",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Chrottebösche"
+    },
+    "en": {
+      "title": "Springtime meadows in evening lights",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Dandelion"
+    }
+  },
+  {
+    "url": "2017-002 (Large).jpg",
+    "url_min": "2017-002 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Monochrom Löwenzahn",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Monochrom"
+    },
+    "en": {
+      "title": "Monochrome dandelions",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Monochrome"
+    }
+  },
+  {
+    "url": "2015-004 (Large).jpg",
+    "url_min": "2015-004 (Mobile).jpg",
+    "size": "120 x 120 cm",
+    "sold": false,
+    "de": {
+      "title": "Blüte einer weissen Herbstanemone",
+      "desc": "Öl, Acryl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Herbstanemone"
+    },
+    "en": {
+      "title": "Blossom of a white automn anemone",
+      "desc": "Oil Paint and Acryl / Canvas on wood 4 cm, unframed",
+      "caption": "Automn anemone"
+    }
+  },
+  {
+    "url": "2015-001 (Large).jpg",
+    "url_min": "2015-001 (Mobile).jpg",
+    "size": "80 x 80 cm",
+    "sold": false,
+    "de": {
+      "title": "Tautropfen auf Gras in Island, Thingvellir",
+      "desc": "Öl / Leinwand auf Holz 4 cm, ungerahmt",
+      "caption": "Tautropfen"
+    },
+    "en": {
+      "title": "Dew drops on grass in Iceland, Thingvellir",
+      "desc": "Oil Paint  / Canvas on wood 4 cm, unframed",
+      "caption": "Dew drops"
     }
   },
   {
@@ -718,6 +718,22 @@
       "title": "Aloe",
       "desc": "Acryl / Canvas on wood 4 cm, unframed",
       "caption": "Aloe"
+    }
+  },
+  {
+    "url": "2018-002 (Large).jpg",
+    "url_min": "2018-002 (Mobile).jpg",
+    "size": "80 x 120 cm",
+    "sold": false,
+    "de": {
+      "title": "Rotbuche mit Efeu, Frauenfeld",
+      "desc": "Öl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Efeu auf Rotbuche"
+    },
+    "en": {
+      "title": "Ivy on European beech",
+      "desc": "Oil Paint / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Ivy"
     }
   },
   {
@@ -1310,6 +1326,22 @@
       "title": "Painting springtime meadows in evening lights (room design by freepik)",
       "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
       "caption": "Dandelion"
+    }
+  },
+  {
+    "url": "Showroom_10 (Large).jpg",
+    "url_min": "Showroom_10 (Mobile).jpg",
+    "size": "70 x 140 cm",
+    "sold": true,
+    "de": {
+      "title": "Wasserfall Island Thingvellir Nationalpark",
+      "desc": "Acryl / Leinen auf Holz 4 cm, ungerahmt",
+      "caption": "Wasserfall"
+    },
+    "en": {
+      "title": "Waterfall in Thingvellir Nationalpark Iceland",
+      "desc": "Acryl / Linen Canvas on wood 4 cm, unframed",
+      "caption": "Waterfall"
     }
   }
 ],
