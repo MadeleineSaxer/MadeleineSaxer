@@ -3,7 +3,7 @@ import {HelperService} from '../shared/helper.service';
 import {Picture} from '../shared/picture';
 import {publish, takeWhile} from 'rxjs/operators';
 import 'hammerjs';
-import {NgxGalleryAnimation, NgxGalleryImage, NgxGalleryImageSize, NgxGalleryLayout} from 'ngx-gallery';
+import {NgxGalleryAnimation, NgxGalleryImage, NgxGalleryImageSize, NgxGalleryLayout} from '@kolkov/ngx-gallery';
 
 @Component({
   selector: 'app-gallery',

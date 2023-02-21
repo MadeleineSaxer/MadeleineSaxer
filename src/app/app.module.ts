@@ -18,9 +18,9 @@ import { AboutComponent } from './about/about.component';
 import { HttpClientModule } from '@angular/common/http';
 import { NgxGalleryModule } from '@kolkov/ngx-gallery';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { AngularFontAwesomeModule } from 'angular-font-awesome';
 import { ContactComponent } from './contact/contact.component';
 import { SoldGalleryComponent } from './soldGallery/soldGallery.component';
+//import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 const appRoutes: Routes = [
   { path: 'gallery', component: GalleryComponent },
@@ -53,8 +53,8 @@ const appRoutes: Routes = [
     NgxGalleryModule,
     MatTabsModule,
     FlexLayoutModule,
-    AngularFontAwesomeModule,
-    MatCardModule
+    MatCardModule,
+    //FontAwesomeModule
   ],
   exports: [],
   providers: [],
