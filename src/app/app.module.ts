@@ -48,7 +48,7 @@ const appRoutes: Routes = [
     MatIconModule,
     MatSidenavModule,
     MatToolbarModule,
-    RouterModule.forRoot(appRoutes),
+    RouterModule.forRoot(appRoutes, { relativeLinkResolution: 'legacy' }),
     HttpClientModule,
     NgxGalleryModule,
     MatTabsModule,
