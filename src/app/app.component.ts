@@ -3,7 +3,6 @@ import {HelperService} from './shared/helper.service';
 import {takeWhile} from 'rxjs/operators';
 import {Language} from './shared/language';
 import {Navigatortext} from './shared/navigatortext';
-import {MatToolbar} from '@angular/material';
 
 @Component({
   selector: 'app-root',
